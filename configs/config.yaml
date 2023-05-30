@@ -1,0 +1,44 @@
+defaults:
+  - _self_
+  - experiment: example
+
+log_path: outputs
+collect_data_dir: ${log_path}/${run_name}/collected_data
+processed_dataset_dir: ${log_path}/${run_name}/processed_dataset
+models_dir: ${log_path}/${run_name}/models
+
+save_dir: ${hydra:run.dir}
+save_images: False
+model:
+  dataset: ${dataset}
+  models_dir: ${models_dir}
+  psg_memorization_baseline: ${agents.psg_memorization_baseline}
+
+dataset: ${run_name}
+no_cache: False
+process_graphs_after_collection: True #may break if you don't have enough RAM
+
+collect_data_num_workers: 10
+process_data_num_workers: 1
+
+num_train_epochs: 25
+batch_size: 200
+train_labels_per_batch: 250
+test_labels_per_batch: 500
+psg_training: True
+
+eval_in_parallel: True
+
+hydra:
+  output_subdir: hydra
+  run:
+    dir: ${log_path}/${run_name}/
+  sweep:
+    dir: ${log_path}/${run_name}/
+    subdir: ${hydra.job.override_dirname}
+  job:
+    chdir: False
+    config:
+      override_dirname:
+        exclude_keys:
+          - eval

@@ -1,0 +1,19 @@
+# @package _global_
+model:
+  cfg_name: heat
+  model_type: heat
+  model_name: heat_no_fuse
+  recurrent: False
+
+  node_embed_size: 64
+  edge_features: all
+  node_features: all
+  fuse_node_features: False
+  add_num_nodes: False
+  add_num_edges: False
+  use_edge_weights: False
+
+  psg_memorization_baseline: False
+  zero_priors_to_objects: False
+  models_dir: data/models
+  dataset: ${task.cfg_name}_${scene_gen.cfg_name}

@@ -1,0 +1,9 @@
+# @package _global_
+task: 
+  cfg_name: find_object
+  name: find_object
+  num_smoothing_steps: 10
+  eps_per_scene : 110
+  num_steps : 11000
+  top_k: 10
+  max_attempts: 10

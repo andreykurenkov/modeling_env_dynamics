@@ -1,0 +1,16 @@
+# @package _global_
+defaults:
+  - override /scene_gen: small_scenes
+
+run_name: save_images
+dataset: save_images
+
+model:
+  dataset: save_images
+
+task:
+  eps_per_scene: 200 
+
+data_gen:
+  num_steps_train: 200
+  num_steps_test: 0 

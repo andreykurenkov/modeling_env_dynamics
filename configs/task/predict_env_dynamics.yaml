@@ -1,0 +1,9 @@
+# @package _global_
+task: 
+  cfg_name: predict_env_dynamics
+  name: predict_env_dynamics
+  num_steps : 11000
+  eps_per_scene : 110
+  top_k : 3
+  num_smoothing_steps : 100
+  

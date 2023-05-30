@@ -1,0 +1,11 @@
+# @package _global_
+defaults:
+  - /scene_gen: large_scenes
+  - /agents: all
+  - /data_gen: 5k
+  - /task: predict_location
+  - /model: gcn
+
+run_name: no_fuse
+model:
+  fuse_node_features: False

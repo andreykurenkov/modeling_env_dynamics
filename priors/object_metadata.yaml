@@ -1,0 +1,931 @@
+alarm_clock:
+  adjectives: [['blue','black'],['metal','plastic']]
+  category: alarm_clock
+  label: alarm_clock
+  max_count: 1
+  move_freq: '0.01'
+  same_probs: ['clock']
+  same_probs: []
+  sample_prob: 0.2
+  spawn_prob: 0.0
+  type: object
+  unique_id: alarm_clock c176ec3f-fe6c-4d46-b860-cd68e5fa418a
+apple:
+  adjectives: ['large','small']
+  category: apple
+  label: apple
+  max_count: 15
+  move_freq: '0.4'
+  same_probs: ['apples','oranges','bananas','orange','banana','lemon','garlic','peach','grapes','avocado']
+  sample_prob: 0.8
+  spawn_prob: 0.2
+  type: object
+  unique_id: apple 78da2558-50c1-4214-acc4-447ae80a957c
+arm_chair:
+  adjectives: ['arm','leather','large','small']
+  category: arm_chair
+  label: chair
+  max_count: 2
+  move_freq: '0.100'
+  same_probs: []
+  sample_prob: 0.6
+  spawn_prob: 0.0
+  type: furniture
+  unique_id: arm_chair c159fd8b-b2c2-491b-8b34-070bfcaa369e
+baseball_bat:
+  adjectives: ['metal','wood']
+  category: baseball_bat
+  label: baseball_bat
+  max_count: 1
+  move_freq: '0.2'
+  same_probs: []
+  sample_prob: 0.2
+  spawn_prob: 0.0
+  type: object
+  unique_id: baseball_bat db34af67-2a04-4c0f-976c-6651e4219d24
+basket_ball:
+  adjectives: []
+  category: basket_ball
+  label: basket_ball
+  max_count: 1
+  move_freq: '0.2'
+  same_probs: []
+  sample_prob: 0.2
+  spawn_prob: 0.0
+  type: object
+  unique_id: basket_ball badba35a-1c65-4c0e-8d4d-128980000782
+bed:
+  adjectives: ['queen','kids','king']
+  category: bed
+  label: bed
+  max_count: 2
+  move_freq: '0'
+  same_probs: []
+  sample_prob: 0.9
+  spawn_prob: 0.0
+  type: furniture
+  unique_id: bed 52c10b5d-cd98-4a95-92ad-9e0f6db3aa9d
+bedroom:
+  adjectives: []
+  category: bedroom
+  label: bedroom
+  max_count: 2
+  move_freq: '0'
+  same_probs: []
+  sample_prob: 0.9
+  spawn_prob: 0.0
+  type: room
+  unique_id: bedroom 6cc58e5e-e91b-46a1-8596-9edf96300acd
+book:
+  adjectives: [['blue','red','black','white'],['open','softcover','hardcover']]
+  category: book
+  label: book
+  max_count: 20
+  move_freq: '0.2'
+  same_probs: ['binder','document','books','binders','documents']
+  sample_prob: 0.8
+  spawn_prob: 0.01
+  type: object
+  unique_id: book 5b0247d8-eab9-4a33-b4ea-6e0f1eeb7e46
+magazine:
+  adjectives: [['closed','open'],['people','sports_llustrated','cosmopolitan','new_york_times','economist']]
+  category: magazine
+  label: magazine
+  max_count: 12
+  move_freq: '0.5'
+  sample_prob: 0.75
+  spawn_prob: 0.1
+  type: object
+  unique_id: magazine 5b0247d8-eab9-4a33-b4ea-6e0f1eeb7e46
+notebook:
+  adjectives: [['open','large','small'],['red','black','white','blue']]
+  category: notebook
+  label: notebook
+  max_count: 6
+  move_freq: '0.5'
+  sample_prob: 0.8
+  spawn_prob: 0.01
+  type: object
+  unique_id: notebook 5b0247d8-eab9-4a33-b4ea-6e0f1eeb7e46
+bottle:
+  adjectives: [['large','small'],['water','apple_juice','orange_juice','black_tea','sweetened_tea','ipa','kombucha','beer','soda']]
+  category: bottle
+  label: bottle
+  max_count: 15
+  move_freq: '0.25'
+  same_probs: ['bottles']
+  sample_prob: 0.9
+  spawn_prob: 0.1
+  type: object
+  unique_id: bottle c2d1d6ee-c38c-4bb8-9524-52af16a715b4
+box:
+  adjectives: [['large','small'],['toy','tool','makeup','snack']]
+  category: box
+  label: box
+  max_count: 4
+  move_freq: '0.4'
+  same_probs: []
+  sample_prob: 0.7
+  spawn_prob: 0.01
+  type: object
+  unique_id: box 6e11c6ad-0490-4769-8e39-606ebf11975d
+bread:
+  adjectives: ['wheat','white','sourdough','sweet']
+  category: bread
+  label: bread
+  max_count: 4
+  move_freq: '0.135'
+  same_probs: ['baguette']
+  sample_prob: 0.5
+  spawn_prob: 0.1
+  type: object
+  unique_id: bread d7a67569-2c65-469c-9368-c7b05484ee7f
+butter_knife:
+  adjectives: ['plastic','metal']
+  category: butter_knife
+  label: butter_knife
+  max_count: 4
+  move_freq: '0.2'
+  same_probs: []
+  sample_prob: 0.75
+  spawn_prob: 0.01
+  type: object
+  unique_id: butter_knife 0fa7142c-6103-4455-82f2-5f44839e95e1
+candle:
+  adjectives: [['large','small','scented'],['white','blue','black','red','pink']]
+  category: candle
+  label: candle
+  max_count: 12
+  move_freq: '0.4'
+  same_probs: ['candles']
+  sample_prob: 0.6
+  spawn_prob: 0.2
+  type: object
+  unique_id: candle 9148f0e0-34b1-40f3-a91a-29c380f3a0ac
+cell_phone:
+  adjectives: [['black','white','pink','purple','blue'],['iphone','android']]
+  category: phone
+  label: phone
+  max_count: 2
+  move_freq: '0.9'
+  same_probs: ['smartphone']
+  sample_prob: 0.75
+  spawn_prob: 0.0
+  type: object
+  unique_id: phone 4b323b77-31bf-474c-8d92-17f4a3f3aaf1
+chair:
+  adjectives: [['wooden','metal','plastic','small'],['foldable','reclining','beach']]
+  category: chair
+  label: chair
+  max_count: 12
+  move_freq: '0.800'
+  same_probs: ['chairs']
+  sample_prob: 0.75
+  spawn_prob: 0.01
+  type: furniture
+  unique_id: chair bb0da493-48e9-4d01-a48b-ec90be2c773e
+cloth:
+  adjectives: [['large','small','thick','thin'],['red','white','black','blue']]
+  category: cloth
+  label: cloth
+  max_count: 6
+  move_freq: '0.2'
+  same_probs: []
+  sample_prob: 0.9
+  spawn_prob: 0.01
+  type: object
+  unique_id: cloth 483c9a37-1f97-45ff-ba74-441512e5f348
+coffee_machine:
+  adjectives: ['drip','espresso','keurig']
+  category: coffee_machine
+  label: coffee_machine
+  max_count: 2
+  move_freq: '0.01'
+  same_probs: []
+  sample_prob: 0.6
+  spawn_prob: 0.0
+  type: object
+  unique_id: coffee_machine 5bd94929-5721-4709-bb20-c181f9af0599
+coffee_table:
+  adjectives: ['small','large','wooden','glass']
+  category: coffee_table
+  label: coffee_table
+  max_count: 3
+  move_freq: '0.200'
+  same_probs: []
+  sample_prob: 0.6
+  spawn_prob: 0.0
+  type: furniture
+  unique_id: coffee_table 05b39aaf-042d-49c6-9b50-800edb68dad7
+cooktop:
+  adjectives: ['metal','electric','gas']
+  category: cooktop
+  label: cooktop
+  max_count: 1
+  move_freq: '0.0'
+  same_probs: []
+  sample_prob: 0.9
+  spawn_prob: 0.0
+  type: furniture
+  unique_id: cooktop 9bb01a70-2478-44e7-a3b3-9f287bf0aadd
+corn_flake:
+  adjectives: [['box_of','bowl_of'],['chocolate','cork_flake','cheerios','rice_krispies','raisin_bran','cinnamon_toast_crunch','healthy']]
+  category: cereal
+  label: cereal
+  max_count: 4
+  move_freq: '0.2'
+  same_probs: []
+  sample_prob: 0.5
+  spawn_prob: 0.1
+  type: object
+  unique_id: cereal 586475bb-e7bb-4d53-9ce9-3e24b68a0d5d
+counter:
+  adjectives: ['marble','metal','wood']
+  category: counter
+  label: counter
+  max_count: 3
+  move_freq: '0.0'
+  same_probs: []
+  sample_prob: 0.8
+  spawn_prob: 0.0
+  type: furniture
+  unique_id: counter 5bdbf8db-5f4e-463b-84fe-acecc3894eb1
+counter_top:
+  adjectives: ['white','black','marble','wood','marble']
+  category: counter_top
+  label: counter_top
+  max_count: 3
+  move_freq: '0.0'
+  same_probs: []
+  sample_prob: 0.8
+  spawn_prob: 0.0
+  type: furniture
+  unique_id: counter_top 57f32c1b-7156-4430-8d55-a1ce3ef01863
+credit_card:
+  adjectives: ['black','white','red','blue']
+  category: credit_card
+  label: credit_card
+  max_count: 4
+  move_freq: '0.2'
+  same_probs: ['wallet','debit_card']
+  sample_prob: 0.5
+  spawn_prob: 0.1
+  type: object
+  unique_id: credit_card 37cb57d4-1dd1-4e1c-903b-460ee98e0909
+cup:
+  adjectives: [['diry','clean'],['red','blue','black','large','small'],['coffee','plastic','glass','water']]
+  category: cup
+  label: cup
+  max_count: 16
+  move_freq: '0.4'
+  same_probs: []
+  sample_prob: 0.8
+  spawn_prob: 0.1
+  type: object
+  unique_id: cup 64590757-8eec-4a32-b629-7d05ec92f019
+desk:
+  adjectives: [['small','large','plastic','standing'],['office','writing','vanity']]
+  category: desk
+  label: desk
+  max_count: 4
+  move_freq: '0.000'
+  same_probs: []
+  sample_prob: 0.7
+  spawn_prob: 0.0
+  type: furniture
+  unique_id: desk ad266de6-5d4a-4b6a-8994-29d196250b27
+desk_lamp:
+  adjectives: ['red','black','blue','brown']
+  category: desk_lamp
+  label: desk_lamp
+  max_count: 4
+  move_freq: '0.01'
+  same_probs: []
+  sample_prob: 0.5
+  spawn_prob: 0.01
+  type: object
+  unique_id: desk_lamp 52af33f2-c58f-406b-a9ed-723672f71e97
+dining_table:
+  adjectives: [['large','small'],['wooden','round','large','small','foldable']]
+  category: dining_table
+  label: dining_table
+  max_count: 1
+  move_freq: '0.0'
+  same_probs: []
+  sample_prob: 1.0
+  spawn_prob: 0.0
+  type: furniture
+  unique_id: dining_table 26898972-74d9-4af6-a5f5-1e1afa94fd44
+dish_sponge:
+  adjectives: [['thick','thin'],['blue','yellow','white','orange','green']]
+  category: dish_sponge
+  label: dish_sponge
+  max_count: 4
+  move_freq: '0.1'
+  same_probs: ['dish_soap','sponge']
+  sample_prob: 0.8
+  spawn_prob: 0.01
+  type: object
+  unique_id: dish_sponge b73691de-57d0-4b95-bc2c-599696843a1a
+dishtowel:
+  adjectives: [['small','large'],['dirty','clean','washed','unwashed','unused'],['red','white','black','blue']]
+  category: dishtowel
+  label: dishtowel
+  max_count: 8
+  move_freq: '0.2'
+  same_probs: ['towels']
+  sample_prob: 0.75
+  spawn_prob: 0.001
+  type: object
+  unique_id: dishtowel c8916db3-c144-4a56-8041-ef709a84dd96
+dresser:
+  adjectives: [['large','small','tall','short'],['white','brown','black']]
+  category: dresser
+  label: dresser
+  max_count: 3
+  move_freq: '0.0'
+  same_probs: []
+  sample_prob: 0.75
+  spawn_prob: 0.01
+  type: furniture
+  unique_id: dresser e2429fef-4d4e-412d-a59f-57ea48d7284b
+egg:
+  adjectives: ['brown','white']
+  category: egg
+  label: egg
+  max_count: 12
+  move_freq: '0.05'
+  same_probs: ['butter']
+  sample_prob: 0.8
+  spawn_prob: 0.1
+  type: object
+  unique_id: egg 12ba12e2-2a91-4a6f-ac43-69f5a2dc2339
+floor1:
+  adjectives: []
+  category: floor
+  label: floor1
+  max_count: 1
+  move_freq: '0.0'
+  same_probs: []
+  sample_prob: 1.0
+  type: floor
+  unique_id: floor1 9c06db5f-e34d-491d-83e4-42440bb66e7d
+flour:
+  adjectives: [['unopened','opened'],['bread','whole_wheat','cake','pastry','all_purpose','white']]
+  category: flour
+  label: flour
+  max_count: 4
+  move_freq: '0.2'
+  same_probs: []
+  sample_prob: 0.8
+  spawn_prob: 0.1
+  type: object
+  unique_id: flour 90e9a965-7ee4-4944-ad06-5f4f38cd5603
+fork:
+  adjectives: [['small','large'],['dirty','clean'],['metal','plastic']]
+  category: fork
+  label: fork
+  max_count: 8
+  move_freq: '0.2'
+  same_probs: []
+  sample_prob: 0.8
+  spawn_prob: 0.2
+  type: object
+  unique_id: fork 66bd561f-22ef-49a2-a2ae-99396aed4b3e
+fridge:
+  adjectives: ['white','black','mini']
+  category: fridge
+  label: fridge
+  max_count: 2
+  move_freq: '0.0'
+  same_probs: []
+  sample_prob: 0.9
+  type: furniture
+  unique_id: fridge bcd7f194-f8bd-476c-a2cc-740075a14ed7
+garbage_can:
+  adjectives: ['recycle','garbage','trash','compost']
+  category: garbage_can
+  label: can
+  max_count: 4
+  move_freq: '0.0'
+  same_probs: []
+  sample_prob: 0.8
+  type: furniture
+  unique_id: garbage_can 647e931c-d4cd-4ca1-a928-02b770188041
+house:
+  adjectives: []
+  category: house
+  label: house
+  max_count: 1
+  move_freq: '0.0'
+  same_probs: []
+  sample_prob: 1.0
+  type: house
+  unique_id: house 3a4d0650-3081-4552-825b-3115bfde1ffb
+house_plant:
+  adjectives: [['small','large'],['succulent','cactus','fern','croton','orchid','rubber']]
+  category: house_plant
+  label: house_plant
+  max_count: 12
+  move_freq: '0.01'
+  same_probs: []
+  sample_prob: 0.75
+  spawn_prob: 0.01
+  type: object
+  unique_id: house_plant 423b4fa2-684e-473a-bd89-8ca1c63c5a11
+jar:
+  adjectives: [['large','small','tall'],['glass','ceramic','plastic'],['sweets','sugar','mason','mayonnaise']]
+  category: jar
+  label: jar
+  max_count: 6
+  move_freq: '0.15'
+  sample_prob: 0.75
+  spawn_prob: 0.05
+  type: object
+  unique_id: jar d42e2141-5b90-49fc-805a-f803750808bd
+kettle:
+  adjectives: [['large','small'],['tea','gooseneck','electric','stovetop']]
+  category: kettle
+  label: kettle
+  max_count: 4
+  move_freq: '0.4'
+  same_probs: []
+  sample_prob: 0.75
+  type: object
+  unique_id: kettle 0e984e79-e7a7-4475-892a-b821b4935145
+kitchen:
+  adjectives: []
+  category: kitchen
+  label: kitchen
+  max_count: 1
+  move_freq: '0'
+  same_probs: []
+  sample_prob: 1.0
+  type: room
+  unique_id: kitchen b6efd057-8c70-43f3-a5f2-5a3b96c6ec8f
+childs_room:
+  adjectives: []
+  category: kitchen
+  label: kitchen
+  max_count: 1
+  move_freq: '0'
+  same_probs: []
+  sample_prob: 0.0
+  type: room
+  unique_id: kitchen b6efd057-8c70-43f3-a5f2-5a3b96c6ec8f
+knife:
+  adjectives: [['large','small'],['clean','dirty'],['steak','chef','bread','carving','salmon']]
+  adjectives: []
+  category: knife
+  label: knife
+  max_count: 12
+  move_freq: '0.2'
+  same_probs: []
+  sample_prob: 0.6
+  spawn_prob: 0.01
+  type: object
+  unique_id: knife 2c4af972-4a2a-4e42-b1d4-1f1b939ff243
+soup_ladle:
+  adjectives: [['large','small'],['clean','dirty'],['wok','gravy','sauce','soup','pancake']]
+  category: ladle
+  label: ladle
+  max_count: 6
+  move_freq: '0.4'
+  same_probs: []
+  sample_prob: 0.8
+  type: object
+  unique_id: ladle 0f04c8c1-e768-4fa4-8a7a-492b3eb62b5a
+laptop:
+  adjectives: [['small','large'],['grey','black','white'],['work','gaming'],['lenovo','HP','samsung','dell','asus','apple']]
+  category: laptop
+  label: laptop
+  max_count: 4
+  move_freq: '0.75'
+  same_probs: ['pc']
+  sample_prob: 0.6
+  spawn_prob: 0.1
+  type: object
+  unique_id: laptop 84ae70e3-8249-4feb-9499-1c464474736c
+lettuce:
+  adjectives: []
+  category: lettuce
+  label: lettuce
+  max_count: 5
+  move_freq: '0.1'
+  same_probs: ['beet','radish','eggplant','basil','tomato','kale','squash']
+  sample_prob: 0.8
+  spawn_prob: 0.01
+  type: object
+  unique_id: lettuce 38184ed4-8ec7-4134-8527-cb530842c40b
+living_room:
+  adjectives: []
+  category: living_room
+  label: living_room
+  max_count: 1
+  move_freq: '0'
+  same_probs: []
+  sample_prob: 1.0
+  type: room
+  unique_id: living_room 763dfdea-e52d-4cc4-9095-6f17e4d0754f
+bathroom:
+  adjectives: ['small','large']
+  category: bathroom
+  label: bathroom
+  max_count: 2
+  move_freq: '0'
+  same_probs: []
+  sample_prob: 0.5
+  type: room
+  unique_id: bathroom 763dfdea-e52d-4cc4-9095-6f17e4d0754f
+low-fat_milk:
+  adjectives: [['opened','unopened'],['oat','almon','low fat','whole']]
+  category: milk
+  label: milk
+  max_count: 2
+  move_freq: '0.1'
+  same_probs: ['yogurt','whole_fat_milk','zero_fat_milk']
+  sample_prob: 0.8
+  spawn_prob: 0.1
+  type: object
+  unique_id: milk efd73ddf-9e45-4213-95b7-19c004164dc8
+microwave:
+  adjectives: ['metal','plastic']
+  category: microwave
+  label: microwave
+  max_count: 1
+  move_freq: '0.0'
+  same_probs: []
+  sample_prob: 0.8
+  type: object
+  unique_id: microwave 4022f236-139e-439b-9e39-21a19d32b8ef
+mug:
+  adjectives: [['dirty','clean'],['red','black','white'],['coffee','tea','ceramic','glass','metal']]
+  category: mug
+  label: mug
+  max_count: 12
+  move_freq: '0.6'
+  same_probs: []
+  spawn_prob: 0.01
+  sample_prob: 0.8
+  type: object
+  unique_id: mug 23982f87-7942-4564-a8bc-1e4bbe6b0ff9
+newspaper:
+  adjectives: [['opened','unopened'],['washington_post','new_york_times','usa_today','chicago_tribune','wall_street_journal','los_angeles_times']]
+  category: newspaper
+  label: newspaper
+  max_count: 5
+  move_freq: '0.6'
+  same_probs: []
+  sample_prob: 0.6
+  spawn_prob: 0.2
+  type: object
+  unique_id: newspaper 0848587c-a120-45be-8c68-2761877b3bff
+olive_oil:
+  adjectives: [['spray_can','bottle_of'],['olive','flaxseed','butter','coconut','sesame','extra-virgin olive','hemp seed']]
+  category: oil
+  label: oil
+  max_count: 4
+  move_freq: '0.1'
+  same_probs: []
+  sample_prob: 0.8
+  spawn_prob: 0.05
+  type: object
+  unique_id: oil 900e768d-5acf-42bf-85bf-e05a47cef66c
+ottoman:
+  adjectives: [['black','blue','white','red','purple'],['sleeper','cube','round','rectangle']]
+  category: ottoman
+  label: ottoman
+  max_count: 3
+  move_freq: '0'
+  same_probs: ['footrest','stool']
+  sample_prob: 0.4
+  type: furniture
+  unique_id: ottoman 2ae73ea8-58ba-401c-818e-a820298cd159
+pan:
+  adjectives: [['large','small','medium'],['clean','dirty'],['nonstick','ceramtic','stainless steel','cast-iron']]
+  category: pan
+  label: pan
+  max_count: 6
+  move_freq: '0.2'
+  same_probs: []
+  sample_prob: 0.75
+  spawn_prob: 0.05
+  type: object
+  unique_id: pan cfbf8795-7174-4cdc-9351-35326a42c5bb
+paper_towel_roll:
+  adjectives: ['large','small']
+  category: towel_roll
+  label: towel_roll
+  max_count: 4
+  move_freq: '0.25'
+  same_probs: []
+  sample_prob: 0.75
+  type: object
+  unique_id: towel_roll f1f2e412-cf2c-4f01-a02e-45caa6cf5f7f
+pen:
+  adjectives: [['blue','black','red'],['metal','plastic','calligraphy']]
+  category: pen
+  label: pen
+  max_count: 8
+  move_freq: '0.5'
+  same_probs: []
+  sample_prob: 0.75
+  type: object
+  unique_id: pen aa853d89-1617-4d46-a878-4886cc28abba
+pencil:
+  adjectives: [['new','used'],['plastic','wood']]
+  category: pencil
+  label: pencil
+  max_count: 12
+  move_freq: '0.5'
+  same_probs: []
+  sample_prob: 0.5
+  spawn_prob: 0.01
+  type: object
+  unique_id: pencil 2cb00814-0555-4505-ae6d-75c81632e49b
+penne:
+  adjectives: ['penne','spaghetti','ravioli','wheat','linguine','rigatoni']
+  category: pasta
+  label: pasta
+  max_count: 8
+  move_freq: '0.1'
+  same_probs: []
+  sample_prob: 0.75
+  type: object
+  unique_id: pasta a6fab5b6-81cf-41e7-bbb5-f020b2240f39
+plate:
+  adjectives: [['large','small'],['clean','dirty'],['ceramic','plastic','glass']]
+  category: plate
+  label: plate
+  max_count: 12
+  move_freq: '0.4'
+  same_probs: ['plates']
+  sample_prob: 0.8
+  type: object
+  unique_id: plate 111a90e8-1121-4f34-be07-0a054ad043ab
+pot:
+  adjectives: [['small','large'],['clean','dirty'],['stock','sauce','grill','wok','cast iron']]
+  category: pot
+  label: pot
+  max_count: 4
+  move_freq: '0.1'
+  same_probs: []
+  sample_prob: 0.5
+  type: object
+  unique_id: pot 663127ac-14ae-4dc5-9f8f-e88d2dc7881d
+potato:
+  adjectives: []
+  category: potato
+  label: potato
+  max_count: 8
+  move_freq: '0.1'
+  same_probs: []
+  sample_prob: 0.75
+  type: object
+  unique_id: potato 591c8065-b7b4-462a-be2b-6558aef61c32
+remote_control:
+  adjectives: ['tv','ac','roku','apple_tv']
+  category: remote_control
+  label: remote_control
+  max_count: 4
+  move_freq: '0.75'
+  same_probs: []
+  sample_prob: 0.75
+  type: object
+  unique_id: remote_control 6deb0c4b-a611-405c-b8a6-b91d052aac5e
+rice:
+  adjectives: [['cup_of','bowl_of','bag_of'],['cooked','uncooked'],['white','brown','basmati','jasmine','sticky','arborio']]
+  category: rice
+  label: rice
+  max_count: 6
+  move_freq: '0.15'
+  same_probs: []
+  sample_prob: 0.2
+  type: object
+  unique_id: rice 424a673a-4353-49da-a06e-f68bd07c113f
+salt_shaker:
+  adjectives: [['large','small'],['plastic','glass']]
+  category: salt_shaker
+  label: salt_shaker
+  max_count: 2
+  move_freq: '0.246'
+  same_probs: ['pepper_shaker','paprika_shaker']
+  sample_prob: 0.5
+  type: object
+  unique_id: salt_shaker a67359ea-58fc-4b6c-8b4d-674a44e070ce
+shelf:
+  adjectives: [['metal','wooden'],['book','corner','pull-out','rotating','floating']]
+  category: shelf
+  label: shelf
+  max_count: 10
+  move_freq: '0'
+  same_probs: []
+  sample_prob: 0.8
+  type: furniture
+  unique_id: shelf 9dc419cf-cdeb-4edc-82cd-ba661be58a68
+shelving_unit:
+  adjectives: ['small','large','metal','plastic']
+  category: shelving_unit
+  label: shelving_unit
+  max_count: 4
+  move_freq: '0'
+  same_probs: []
+  sample_prob: 0.5
+  type: furniture
+  unique_id: shelving_unit f5810515-a0f0-4f8c-a547-9a8cc44b4113
+side_table:
+  adjectives: [['large','small'],['wooden','round','large','small','foldable']]
+  category: side_table
+  label: side_table
+  max_count: 3
+  move_freq: '0'
+  same_probs: []
+  sample_prob: 0.7
+  type: furniture
+  unique_id: side_table 18ab565c-9090-4cb7-b65b-9c7e558b083c
+sink:
+  adjectives: ['kitchen','bathroom']
+  category: sink
+  label: sink
+  max_count: 2
+  move_freq: '0'
+  same_probs: []
+  sample_prob: 1.0
+  type: furniture
+  unique_id: sink 39a5c06e-e01e-423b-9b41-71ff18bc13cc
+soap_bar:
+  adjectives: [['large','small'],['red','pink','blue'],['scented','unscented']]
+  category: soap_bar
+  label: soap_bar
+  max_count: 4
+  move_freq: '0.15'
+  same_probs: ['bar_of_soap','soap']
+  sample_prob: 0.5
+  spawn_prob: 0.01
+  type: object
+  unique_id: soap_bar 94fc5b61-a335-451a-97c2-211a5c430f55
+soap_bottle:
+  adjectives: [['large','small'],['red','pink','blue'],['scented','unscented']]
+  category: soap_bottle
+  label: soap_bottle
+  max_count: 4
+  move_freq: '0.1'
+  same_probs: ['bottle_of_soap']
+  sample_prob: 0.5
+  spawn_prob: 0.01
+  type: object
+  unique_id: soap_bottle 788a4ccb-cc10-4cd6-b81c-bbe089994b04
+soda:
+  adjectives: [['open','refiregerated'],['can_of','bottle_of'],['diet_coke','coke','coke_zero','sprite','dr_pepper','coca_cola','pepsi','mountain_dew']]
+  category: soda
+  label: soda
+  max_count: 8
+  move_freq: '0.099'
+  same_probs: ['pop']
+  sample_prob: 0.5
+  spawn_prob: 0.1
+  type: object
+  unique_id: soda 23b2d3a5-a892-4fa6-9693-5c8ac44104ff
+sofa:
+  adjectives: []
+  category: sofa
+  label: sofa
+  max_count: 2
+  move_freq: '0'
+  same_probs: ['couch']
+  sample_prob: 0.75
+  type: furniture
+  unique_id: sofa 6275cba9-86c4-4b7c-8f22-c8df71336db6
+spoon:
+  adjectives: [['large','small','fancy'],['soup','table','coffee','tea','plastic','dessert']]
+  category: spoon
+  label: spoon
+  max_count: 16
+  move_freq: '0.2'
+  same_probs: ['spoons']
+  sample_prob: 0.75
+  type: object
+  unique_id: spoon 192a3cce-69ef-46ab-b351-c4f156d07919
+spray_bottle:
+  adjectives: [['large','small'],['blue','black','new','red']]
+  category: spray_bottle
+  label: spray_bottle
+  max_count: 4
+  move_freq: '0.331'
+  same_probs: []
+  sample_prob: 0.5
+  type: object
+  unique_id: spray_bottle 6cbf2f55-b93e-4e65-aa85-7b1918497d47
+t_v_stand:
+  adjectives: ['metal','glass']
+  category: tv_stand
+  label: tv_stand
+  max_count: 1
+  move_freq: '0'
+  same_probs: []
+  sample_prob: 1.0
+  type: furniture
+  unique_id: t_v_stand f3149684-3320-4215-aeac-ed915dc7e694
+table:
+  adjectives: []
+  category: table
+  label: table
+  max_count: 3
+  move_freq: '0.4'
+  same_probs: []
+  sample_prob: 0.8
+  type: furniture
+  unique_id: table b225a6a0-0338-4ecf-9650-87b42b93ede5
+toy:
+  adjectives: ['small','old','new']
+  category: toy
+  label: toy
+  max_count: 12
+  move_freq: '0.5'
+  same_probs: ['teddy_bear','legos','action_figure','dinosaur','jigsaw','animal']
+  sample_prob: 0.8
+  spawn_prob: 0.01
+  type: object
+  unique_id: teddy_bear 76e44358-d3a3-4a80-9312-4d46329d5ffc
+tennis_racket:
+  adjectives: []
+  category: tennis_racket
+  label: tennis_racket
+  max_count: 4
+  move_freq: '0.2'
+  same_probs: []
+  sample_prob: 0.25
+  type: object
+  unique_id: tennis_racket d8f7d29e-dee9-4192-b78b-186346705da0
+tissue_box:
+  adjectives: [['large','small'],['white','blue','unopened','opened']]
+  category: tissue_box
+  label: tissue_box
+  max_count: 4
+  move_freq: '0.1'
+  same_probs: ['box_of_tissues']
+  sample_prob: 0.2
+  spawn_prob: 0.1
+  type: object
+  unique_id: tissue_box d3656fb9-e27e-4429-a7fc-258505a424aa
+toaster:
+  adjectives: ['plastic','metal']
+  category: toaster
+  label: toaster
+  max_count: 1
+  move_freq: '0.01'
+  same_probs: []
+  sample_prob: 0.8
+  type: object
+  unique_id: toaster 6cc03494-d8ab-4145-b3e5-09f6fef8a94e
+toilet:
+  adjectives: []
+  category: toilet
+  label: toilet
+  max_count: 1
+  move_freq: '0'
+  same_probs: []
+  sample_prob: 1.0
+  type: furniture
+  unique_id: toilet 97427051-af52-4d66-a2ab-01360efdcb97
+toilet_paper:
+  adjectives: []
+  category: toilet_paper
+  label: toilet_paper
+  max_count: 4
+  move_freq: '0.1'
+  same_probs: []
+  sample_prob: 0.5
+  type: object
+  unique_id: toilet_paper 4050a8ad-f54e-410f-be89-5fe86b576167
+top_cabinet:
+  adjectives: ['large','small','pantry']
+  category: top_cabinet
+  label: top_cabinet
+  max_count: 10
+  move_freq: '0'
+  same_probs: []
+  sample_prob: 0.5
+  type: furniture
+  unique_id: top_cabinet ac759345-a712-447a-9cd3-5606b941ba98
+watch:
+  adjectives: ['plastic','metal','electronic','smart']
+  category: watch
+  label: watch
+  max_count: 2
+  move_freq: '0.4'
+  same_probs: []
+  sample_prob: 0.5
+  type: object
+  unique_id: watch f258487c-a7f7-446e-b859-4d0ed9edfbbb
+wine_bottle:
+  adjectives: [['open','new'],['bubbly','rose','red','white','large']]
+  category: wine_bottle
+  label: wine_bottle
+  max_count: 6
+  move_freq: '0.1'
+  same_probs: []
+  sample_prob: 0.4
+  spawn_prob: 0.1
+  type: object
+  unique_id: wine_bottle 41474b88-7d7b-462d-8d1c-75ad0f0fed22

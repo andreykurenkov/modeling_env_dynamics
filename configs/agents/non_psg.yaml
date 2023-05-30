@@ -1,0 +1,20 @@
+# @package _global_
+agents: 
+  cfg_name: non_psg_agents
+  agent_priors_type: detailed
+  constant_prior_probs: True
+  linear_schedule_num_steps: 0
+  psg_memorization_baseline: False
+  memorization_use_priors: False
+  counts_use_priors: False
+  psg_use_priors: True
+  psg_use_model: True
+  observation_prob: 0.6
+
+  agent_types:
+      - random
+      - priors
+      - counts
+      - memorization
+      - upper_bound
+      - oracle_upper_bound

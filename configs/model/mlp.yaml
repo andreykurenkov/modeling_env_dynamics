@@ -1,0 +1,24 @@
+# @package _global_
+model:
+  cfg_name: mlp
+  model_type: mlp
+  model_name: mlp
+
+  edge_features: all
+  node_features: all
+  add_num_nodes: False
+  add_num_edges: False
+  use_edge_weights: False
+  embed_text_with_transformer: False
+  include_transformer: True
+
+  node_embedding_dim: 64
+  edge_embedding_dim: 32
+  node_mlp_hidden_layers: [64,64]
+  edge_mlp_hidden_layers: [64,64]
+  output_mlp_hidden_layers: [64,64]
+  node_fuse_method: 'avg'
+
+  psg_memorization_baseline: False
+  zero_priors_to_objects: False
+  reversed_edges: True

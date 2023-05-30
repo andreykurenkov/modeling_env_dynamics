@@ -1,0 +1,10 @@
+[submodule "dependencies/gym-minigrid"]
+	path = dependencies/gym-minigrid
+	url = git@github.com:maximecb/gym-minigrid.git
+[submodule "dependencies/Griddly"]
+	path = dependencies/Griddly
+	url = git@github.com:Bam4d/Griddly.git
+[submodule "dependencies/mini_behavior"]
+	path = dependencies/mini_behavior
+	url = git@github.com:stanfordvl/mini_behavior.git
+	branch = psg

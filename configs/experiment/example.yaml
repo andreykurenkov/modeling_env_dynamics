@@ -1,0 +1,9 @@
+# @package _global_
+defaults:
+  - /scene_gen: large_scenes
+  - /agents: all
+  - /data_gen: 10k
+  - /task: predict_location
+  - /model: heat
+
+run_name: example

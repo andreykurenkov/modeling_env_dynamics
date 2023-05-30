@@ -1,0 +1,21 @@
+# @package _global_
+agents: 
+  cfg_name: all-agents
+  agent_priors_type: detailed
+  constant_prior_probs: True
+  linear_schedule_num_steps: 0
+  psg_memorization_baseline: False
+  memorization_use_priors: False
+  counts_use_priors: False
+  psg_use_priors: True
+  psg_use_model: True
+  observation_prob: 0.9
+
+  agent_types:
+      - random
+      - priors
+      - memorization
+      - psg_mlp
+      - psg_gcn_no_fuse
+      - psg_heat_no_fuse
+      - upper_bound

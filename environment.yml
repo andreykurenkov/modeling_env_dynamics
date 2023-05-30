@@ -1,0 +1,33 @@
+name: mos
+channels:
+  - pyg
+  - pytorch
+  - nvidia 
+  - conda-forge
+dependencies:
+  - python=3.8
+  - pip
+  - pillow
+  - pytorch=1.13.0
+  - torchvision=0.14.0
+  - torchaudio=0.13.0
+  - pytorch-cuda=11.7
+  - pyg
+  - opencv
+  - numpy=1.23.5
+  - pip:
+    - torch-geometric-temporal
+    - networkx
+    - hydra-core
+    - spacy
+    - prior
+    - gensim
+    - matplotlib
+    - shapely
+    - seaborn
+    - gym
+    - tensorboard
+    - tensorboardx
+    - coloredlogs
+    - ray[all]==2.2.0
+    - sentence-transformers

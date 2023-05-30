@@ -1,0 +1,24 @@
+# @package _global_
+agents: 
+  cfg_name: igridson_agents
+  agent_priors_type: detailed
+  constant_prior_probs: True
+  linear_schedule_num_steps: 100
+  sgm_memorization_baseline: False
+  memorization_use_priors: False
+  frequentist_use_priors: False
+  bayesian_prior_var: 0.05
+  sgm_use_priors: True
+  sgm_use_model: True
+  observation_prob: 0.75
+
+  agent_types:
+      - random
+      - priors
+      - memorization
+      - frequentist
+      - bayesian
+      - sgm_mlp
+      - sgm_gcn
+      - sgm_heat
+      - upper_bound

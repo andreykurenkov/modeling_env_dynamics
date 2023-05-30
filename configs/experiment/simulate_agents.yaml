@@ -1,0 +1,12 @@
+# @package _global_
+defaults:
+  - /scene_gen: igridson_scenes
+  - /agents: igridson_agents
+  - /task: find_object
+  - /model: heat
+  - /data_gen: 10k
+
+run_name: simulate_agents
+num_queries: 10
+max_attempts: 12
+viz_mode: headless

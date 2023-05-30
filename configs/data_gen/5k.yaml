@@ -1,0 +1,6 @@
+# @package _global_
+data_gen:
+  cfg_name: 5k
+  num_steps_train : 5000
+  num_steps_test : 1000
+  agent_type: upper_bound

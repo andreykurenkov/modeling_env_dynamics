@@ -1,0 +1,8 @@
+# @package _global_
+task: 
+  cfg_name: predict_locations
+  name: predict_location
+  num_smoothing_steps: 10 
+  eps_per_scene : 110
+  num_steps : 5500
+  num_objects: 5

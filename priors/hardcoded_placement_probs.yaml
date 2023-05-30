@@ -1,0 +1,1874 @@
+# this is a placeholder file until we get something better
+alarm: {}
+almond: {}
+apple:
+  '00_0':
+    counter-kitchen-onTop: 0.5714285714285715
+    table-kitchen-onTop: 1.4285714285714286
+  '00_1':
+    counter-kitchen-onTop: 0.5714285714285715
+    table-kitchen-onTop: 1.4285714285714286
+  '00_2':
+    counter-kitchen-onTop: 0.5714285714285715
+    table-kitchen-onTop: 1.4285714285714286
+  '00_3':
+    counter-kitchen-onTop: 0.5714285714285715
+    table-kitchen-onTop: 1.4285714285714286
+apricot: {}
+armchair: {}
+artichoke: {}
+atomizer: {}
+backpack: {}
+bagel: {}
+baguette: {}
+ball: {}
+banana: {}
+baseboard: {}
+basil: {}
+basket: {}
+bath_towel: {}
+bathtub: {}
+bean: {}
+bed: {}
+beef: {}
+beer: {}
+beet: {}
+bell: {}
+bell_pepper: {}
+bench: {}
+blender: {}
+board_game:
+  Balderdash_Game_Blue_Purple_Medium_Size:
+    counter-playroom-onTop: 0.16666666666666669
+    counter-storage_room-onTop: 0.0735632183908046
+    shelf-closet-in: 0.05885057471264368
+    shelf-corridor-in: 0.16666666666666669
+    shelf-living_room-in: 0.039233716475095784
+    shelf-living_room-onTop: 0.05885057471264368
+    shelf-storage_room-in: 0.0735632183908046
+    shelf-television_room-in: 0.13333333333333333
+  Clue_Board_Game_Classic_Edition_Green_Yellow_Thin_Box:
+    counter-playroom-onTop: 0.16666666666666669
+    counter-storage_room-onTop: 0.0735632183908046
+    shelf-closet-in: 0.05885057471264368
+    shelf-corridor-in: 0.16666666666666669
+    shelf-living_room-in: 0.039233716475095784
+    shelf-living_room-onTop: 0.05885057471264368
+    shelf-storage_room-in: 0.0735632183908046
+    shelf-television_room-in: 0.13333333333333333
+  Cootie_Game_Cube_Light_Colored:
+    counter-playroom-onTop: 0.16666666666666669
+    counter-storage_room-onTop: 0.0735632183908046
+    shelf-closet-in: 0.05885057471264368
+    shelf-corridor-in: 0.16666666666666669
+    shelf-living_room-in: 0.039233716475095784
+    shelf-living_room-onTop: 0.05885057471264368
+    shelf-storage_room-in: 0.0735632183908046
+    shelf-television_room-in: 0.13333333333333333
+  Firefly_Clue_Board_Game_Dark_Blue_Thin_Box:
+    counter-playroom-onTop: 0.16666666666666669
+    counter-storage_room-onTop: 0.0735632183908046
+    shelf-closet-in: 0.05885057471264368
+    shelf-corridor-in: 0.16666666666666669
+    shelf-living_room-in: 0.039233716475095784
+    shelf-living_room-onTop: 0.05885057471264368
+    shelf-storage_room-in: 0.0735632183908046
+    shelf-television_room-in: 0.13333333333333333
+  Hasbro_Cranium_Performance_and_Acting_Game_Colorful_Medium_Size_Box:
+    counter-playroom-onTop: 0.16666666666666669
+    counter-storage_room-onTop: 0.0735632183908046
+    shelf-closet-in: 0.05885057471264368
+    shelf-corridor-in: 0.16666666666666669
+    shelf-living_room-in: 0.039233716475095784
+    shelf-living_room-onTop: 0.05885057471264368
+    shelf-storage_room-in: 0.0735632183908046
+    shelf-television_room-in: 0.13333333333333333
+  Hasbro_Dont_Wake_Daddy_Board_Game_Purple_Yellow_Box:
+    counter-playroom-onTop: 0.16666666666666669
+    counter-storage_room-onTop: 0.0735632183908046
+    shelf-closet-in: 0.05885057471264368
+    shelf-corridor-in: 0.16666666666666669
+    shelf-living_room-in: 0.039233716475095784
+    shelf-living_room-onTop: 0.05885057471264368
+    shelf-storage_room-in: 0.0735632183908046
+    shelf-television_room-in: 0.13333333333333333
+  Hasbro_Life_Board_Game_White_Colorful_Box:
+    counter-playroom-onTop: 0.16666666666666669
+    counter-storage_room-onTop: 0.0735632183908046
+    shelf-closet-in: 0.05885057471264368
+    shelf-corridor-in: 0.16666666666666669
+    shelf-living_room-in: 0.039233716475095784
+    shelf-living_room-onTop: 0.05885057471264368
+    shelf-storage_room-in: 0.0735632183908046
+    shelf-television_room-in: 0.13333333333333333
+  Hasbro_Trivial_Pursuit_Family_Edition_Game_Light_Blue_Black_Medium_Box:
+    counter-playroom-onTop: 0.16666666666666669
+    counter-storage_room-onTop: 0.0735632183908046
+    shelf-closet-in: 0.05885057471264368
+    shelf-corridor-in: 0.16666666666666669
+    shelf-living_room-in: 0.039233716475095784
+    shelf-living_room-onTop: 0.05885057471264368
+    shelf-storage_room-in: 0.0735632183908046
+    shelf-television_room-in: 0.13333333333333333
+  Mad_Gab_Refresh_Card_Game_Orange_Purple_Cube:
+    counter-playroom-onTop: 0.16666666666666669
+    counter-storage_room-onTop: 0.0735632183908046
+    shelf-closet-in: 0.05885057471264368
+    shelf-corridor-in: 0.16666666666666669
+    shelf-living_room-in: 0.039233716475095784
+    shelf-living_room-onTop: 0.05885057471264368
+    shelf-storage_room-in: 0.0735632183908046
+    shelf-television_room-in: 0.13333333333333333
+  Mattel_SKIP_Card_Game_Green_Orange_Small_Box:
+    counter-playroom-onTop: 0.16666666666666669
+    counter-storage_room-onTop: 0.0735632183908046
+    shelf-closet-in: 0.05885057471264368
+    shelf-corridor-in: 0.16666666666666669
+    shelf-living_room-in: 0.039233716475095784
+    shelf-living_room-onTop: 0.05885057471264368
+    shelf-storage_room-in: 0.0735632183908046
+    shelf-television_room-in: 0.13333333333333333
+  My_Monopoly_Board_Game_Green_Red_Box:
+    counter-playroom-onTop: 0.16666666666666669
+    counter-storage_room-onTop: 0.0735632183908046
+    shelf-closet-in: 0.05885057471264368
+    shelf-corridor-in: 0.16666666666666669
+    shelf-living_room-in: 0.039233716475095784
+    shelf-living_room-onTop: 0.05885057471264368
+    shelf-storage_room-in: 0.0735632183908046
+    shelf-television_room-in: 0.13333333333333333
+  Nightmare_Before_Christmas_Collectors_Edition_Operation_Red_Purple_Box:
+    counter-playroom-onTop: 0.16666666666666669
+    counter-storage_room-onTop: 0.0735632183908046
+    shelf-closet-in: 0.05885057471264368
+    shelf-corridor-in: 0.16666666666666669
+    shelf-living_room-in: 0.039233716475095784
+    shelf-living_room-onTop: 0.05885057471264368
+    shelf-storage_room-in: 0.0735632183908046
+    shelf-television_room-in: 0.13333333333333333
+  Pass_The_Popcorn_Movie_Guessing_Game_Yellow_Red_White_Box:
+    counter-playroom-onTop: 0.16666666666666669
+    counter-storage_room-onTop: 0.0735632183908046
+    shelf-closet-in: 0.05885057471264368
+    shelf-corridor-in: 0.16666666666666669
+    shelf-living_room-in: 0.039233716475095784
+    shelf-living_room-onTop: 0.05885057471264368
+    shelf-storage_room-in: 0.0735632183908046
+    shelf-television_room-in: 0.13333333333333333
+  Sorry_Sliders_Board_Game_Orage_Purple_Box:
+    counter-playroom-onTop: 0.16666666666666669
+    counter-storage_room-onTop: 0.0735632183908046
+    shelf-closet-in: 0.05885057471264368
+    shelf-corridor-in: 0.16666666666666669
+    shelf-living_room-in: 0.039233716475095784
+    shelf-living_room-onTop: 0.05885057471264368
+    shelf-storage_room-in: 0.0735632183908046
+    shelf-television_room-in: 0.13333333333333333
+  Supernatural_Ouija_Board_Game_Dark_Blue_Medium_Box:
+    counter-playroom-onTop: 0.16666666666666669
+    counter-storage_room-onTop: 0.0735632183908046
+    shelf-closet-in: 0.05885057471264368
+    shelf-corridor-in: 0.16666666666666669
+    shelf-living_room-in: 0.039233716475095784
+    shelf-living_room-onTop: 0.05885057471264368
+    shelf-storage_room-in: 0.0735632183908046
+    shelf-television_room-in: 0.13333333333333333
+  Tetris_Link_Game_Dark_Purple_Yellow_White:
+    counter-playroom-onTop: 0.16666666666666669
+    counter-storage_room-onTop: 0.0735632183908046
+    shelf-closet-in: 0.05885057471264368
+    shelf-corridor-in: 0.16666666666666669
+    shelf-living_room-in: 0.039233716475095784
+    shelf-living_room-onTop: 0.05885057471264368
+    shelf-storage_room-in: 0.0735632183908046
+    shelf-television_room-in: 0.13333333333333333
+bottom_cabinet: {}
+bottom_cabinet_no_top: {}
+bow: {}
+bowl:
+  260545503087dc5186810055962d0a91:
+    coffee_table-television_room-onTop: 0.051440329218107
+    shelf-kitchen-in: 0.2314814814814815
+    shelf-television_room-in: 0.13888888888888892
+    table-childs_room-onTop: 0.07716049382716049
+    table-corridor-onTop: 0.16666666666666669
+    table-dining_room-onTop: 0.051440329218107
+    table-kitchen-onTop: 0.102880658436214
+    table-utility_room-onTop: 0.11574074074074076
+  56803af65db53307467ca2ad6571afff:
+    coffee_table-television_room-onTop: 0.051440329218107
+    shelf-kitchen-in: 0.2314814814814815
+    shelf-television_room-in: 0.13888888888888892
+    table-childs_room-onTop: 0.07716049382716049
+    table-corridor-onTop: 0.16666666666666669
+    table-dining_room-onTop: 0.051440329218107
+    table-kitchen-onTop: 0.102880658436214
+    table-utility_room-onTop: 0.11574074074074076
+  5aad71b5e6cb3967674684c50f1db165:
+    coffee_table-television_room-onTop: 0.051440329218107
+    shelf-kitchen-in: 0.2314814814814815
+    shelf-television_room-in: 0.13888888888888892
+    table-childs_room-onTop: 0.07716049382716049
+    table-corridor-onTop: 0.16666666666666669
+    table-dining_room-onTop: 0.051440329218107
+    table-kitchen-onTop: 0.102880658436214
+    table-utility_room-onTop: 0.11574074074074076
+  6494761a8a0461777cba8364368aa1d:
+    coffee_table-television_room-onTop: 0.051440329218107
+    shelf-kitchen-in: 0.2314814814814815
+    shelf-television_room-in: 0.13888888888888892
+    table-childs_room-onTop: 0.07716049382716049
+    table-corridor-onTop: 0.16666666666666669
+    table-dining_room-onTop: 0.051440329218107
+    table-kitchen-onTop: 0.102880658436214
+    table-utility_room-onTop: 0.11574074074074076
+  '68_0':
+    coffee_table-television_room-onTop: 0.051440329218107
+    shelf-kitchen-in: 0.2314814814814815
+    shelf-television_room-in: 0.13888888888888892
+    table-childs_room-onTop: 0.07716049382716049
+    table-corridor-onTop: 0.16666666666666669
+    table-dining_room-onTop: 0.051440329218107
+    table-kitchen-onTop: 0.102880658436214
+    table-utility_room-onTop: 0.11574074074074076
+  '68_1':
+    coffee_table-television_room-onTop: 0.051440329218107
+    shelf-kitchen-in: 0.2314814814814815
+    shelf-television_room-in: 0.13888888888888892
+    table-childs_room-onTop: 0.07716049382716049
+    table-corridor-onTop: 0.16666666666666669
+    table-dining_room-onTop: 0.051440329218107
+    table-kitchen-onTop: 0.102880658436214
+    table-utility_room-onTop: 0.11574074074074076
+  '68_2':
+    coffee_table-television_room-onTop: 0.051440329218107
+    shelf-kitchen-in: 0.2314814814814815
+    shelf-television_room-in: 0.13888888888888892
+    table-childs_room-onTop: 0.07716049382716049
+    table-corridor-onTop: 0.16666666666666669
+    table-dining_room-onTop: 0.051440329218107
+    table-kitchen-onTop: 0.102880658436214
+    table-utility_room-onTop: 0.11574074074074076
+  '68_3':
+    coffee_table-television_room-onTop: 0.051440329218107
+    shelf-kitchen-in: 0.2314814814814815
+    shelf-television_room-in: 0.13888888888888892
+    table-childs_room-onTop: 0.07716049382716049
+    table-corridor-onTop: 0.16666666666666669
+    table-dining_room-onTop: 0.051440329218107
+    table-kitchen-onTop: 0.102880658436214
+    table-utility_room-onTop: 0.11574074074074076
+  7d7bdea515818eb844638317e9e4ff18:
+    coffee_table-television_room-onTop: 0.051440329218107
+    shelf-kitchen-in: 0.2314814814814815
+    shelf-television_room-in: 0.13888888888888892
+    table-childs_room-onTop: 0.07716049382716049
+    table-corridor-onTop: 0.16666666666666669
+    table-dining_room-onTop: 0.051440329218107
+    table-kitchen-onTop: 0.102880658436214
+    table-utility_room-onTop: 0.11574074074074076
+  '80_0':
+    coffee_table-television_room-onTop: 0.051440329218107
+    shelf-kitchen-in: 0.2314814814814815
+    shelf-television_room-in: 0.13888888888888892
+    table-childs_room-onTop: 0.07716049382716049
+    table-corridor-onTop: 0.16666666666666669
+    table-dining_room-onTop: 0.051440329218107
+    table-kitchen-onTop: 0.102880658436214
+    table-utility_room-onTop: 0.11574074074074076
+  8b90aa9f4418c75452dd9cc5bac31c96:
+    coffee_table-television_room-onTop: 0.051440329218107
+    shelf-kitchen-in: 0.2314814814814815
+    shelf-television_room-in: 0.13888888888888892
+    table-childs_room-onTop: 0.07716049382716049
+    table-corridor-onTop: 0.16666666666666669
+    table-dining_room-onTop: 0.051440329218107
+    table-kitchen-onTop: 0.102880658436214
+    table-utility_room-onTop: 0.11574074074074076
+  a1393437aac09108d627bfab5d10d45d:
+    coffee_table-television_room-onTop: 0.051440329218107
+    shelf-kitchen-in: 0.2314814814814815
+    shelf-television_room-in: 0.13888888888888892
+    table-childs_room-onTop: 0.07716049382716049
+    table-corridor-onTop: 0.16666666666666669
+    table-dining_room-onTop: 0.051440329218107
+    table-kitchen-onTop: 0.102880658436214
+    table-utility_room-onTop: 0.11574074074074076
+  c25fd49b75c12ef86bbb74f0f607cdd:
+    coffee_table-television_room-onTop: 0.051440329218107
+    shelf-kitchen-in: 0.2314814814814815
+    shelf-television_room-in: 0.13888888888888892
+    table-childs_room-onTop: 0.07716049382716049
+    table-corridor-onTop: 0.16666666666666669
+    table-dining_room-onTop: 0.051440329218107
+    table-kitchen-onTop: 0.102880658436214
+    table-utility_room-onTop: 0.11574074074074076
+box:
+  box_000:
+    table-home_office-under: 0.5
+    table-living_room-under: 1.0
+bracelet: {}
+breakfast_table: {}
+briefcase: {}
+broccoli: {}
+broom: {}
+bucket: {}
+bulldog_clip: {}
+bulletin_board: {}
+burner: {}
+butter: {}
+calculator: {}
+caliper:
+  '02_0':
+    table-home_office-onTop: 1.0
+candle: {}
+candy_cane: {}
+canned_food:
+  '1':
+    fridge-kitchen-in: 1.0
+  '19':
+    fridge-kitchen-in: 1.0
+  '2':
+    fridge-kitchen-in: 1.0
+  '22':
+    fridge-kitchen-in: 1.0
+  '25':
+    fridge-kitchen-in: 1.0
+  '3':
+    fridge-kitchen-in: 1.0
+  '4':
+    fridge-kitchen-in: 1.0
+  '5':
+    fridge-kitchen-in: 1.0
+cantaloup: {}
+car: {}
+carafe: {}
+carpet: {}
+carpet_sweeper: {}
+carrot: {}
+carton: {}
+carving_knife:
+  '14_1':
+    counter-kitchen-onTop: 1.0
+  '15_1':
+    counter-kitchen-onTop: 1.0
+  '17_0':
+    counter-kitchen-onTop: 1.0
+casserole: {}
+catsup: {}
+cauldron: {}
+celery: {}
+cereal: {}
+chaise_longue: {}
+cheese: {}
+cherry: {}
+chest: {}
+chestnut: {}
+chicken: {}
+chili: {}
+chip:
+  '07':
+    shelf-closet-in: 0.2
+    top_cabinet-kitchen-in: 0.8
+    top_cabinet-pantry_room-in: 0.4
+  08:
+    shelf-closet-in: 0.2
+    top_cabinet-kitchen-in: 0.8
+    top_cabinet-pantry_room-in: 0.4
+  09:
+    shelf-closet-in: 0.2
+    top_cabinet-kitchen-in: 0.8
+    top_cabinet-pantry_room-in: 0.4
+  '10':
+    shelf-closet-in: 0.2
+    top_cabinet-kitchen-in: 0.8
+    top_cabinet-pantry_room-in: 0.4
+  '26':
+    shelf-closet-in: 0.2
+    top_cabinet-kitchen-in: 0.8
+    top_cabinet-pantry_room-in: 0.4
+  '28':
+    shelf-closet-in: 0.2
+    top_cabinet-kitchen-in: 0.8
+    top_cabinet-pantry_room-in: 0.4
+  '35':
+    shelf-closet-in: 0.2
+    top_cabinet-kitchen-in: 0.8
+    top_cabinet-pantry_room-in: 0.4
+  '36':
+    shelf-closet-in: 0.2
+    top_cabinet-kitchen-in: 0.8
+    top_cabinet-pantry_room-in: 0.4
+  '37':
+    shelf-closet-in: 0.2
+    top_cabinet-kitchen-in: 0.8
+    top_cabinet-pantry_room-in: 0.4
+  '38':
+    shelf-closet-in: 0.2
+    top_cabinet-kitchen-in: 0.8
+    top_cabinet-pantry_room-in: 0.4
+  '39':
+    shelf-closet-in: 0.2
+    top_cabinet-kitchen-in: 0.8
+    top_cabinet-pantry_room-in: 0.4
+  '40':
+    shelf-closet-in: 0.2
+    top_cabinet-kitchen-in: 0.8
+    top_cabinet-pantry_room-in: 0.4
+chives: {}
+chocolate_box: {}
+chopping_board:
+  '10_0':
+    counter-kitchen-onTop: 1.0
+  '13_0':
+    counter-kitchen-onTop: 1.0
+  '16_0':
+    counter-kitchen-onTop: 1.0
+  '17_2':
+    counter-kitchen-onTop: 1.0
+chopstick: {}
+christmas_tree: {}
+christmas_tree_decorated: {}
+cinnamon: {}
+clout_nail: {}
+clove: {}
+coat: {}
+coatrack: {}
+coconut: {}
+coffee_cup: {}
+coffee_maker: {}
+coffee_pouch: {}
+coffee_table: {}
+colander: {}
+cologne: {}
+comb: {}
+conditioner: {}
+console_table: {}
+container_cranberry: {}
+container_date: {}
+cookie: {}
+cord: {}
+corn_flake:
+  '11':
+    counter-kitchen-onTop: 0.3333333333333333
+    top_cabinet-kitchen-in: 0.6666666666666666
+    top_cabinet-pantry_room-in: 0.3333333333333333
+  '13':
+    counter-kitchen-onTop: 0.3333333333333333
+    top_cabinet-kitchen-in: 0.6666666666666666
+    top_cabinet-pantry_room-in: 0.3333333333333333
+  '15':
+    counter-kitchen-onTop: 0.3333333333333333
+    top_cabinet-kitchen-in: 0.6666666666666666
+    top_cabinet-pantry_room-in: 0.3333333333333333
+  '25':
+    counter-kitchen-onTop: 0.3333333333333333
+    top_cabinet-kitchen-in: 0.6666666666666666
+    top_cabinet-pantry_room-in: 0.3333333333333333
+  '33':
+    counter-kitchen-onTop: 0.3333333333333333
+    top_cabinet-kitchen-in: 0.6666666666666666
+    top_cabinet-pantry_room-in: 0.3333333333333333
+countertop: {}
+cpu_board: {}
+crab: {}
+cracker_box: {}
+cream: {}
+cream_pitcher: {}
+crib: {}
+cruet: {}
+crumb: {}
+cucumber: {}
+cup: {}
+cupcake: {}
+dart: {}
+dartboard: {}
+dental_floss: {}
+desk: {}
+detergent: {}
+digital_scale: {}
+dinner_napkin: {}
+dipper: {}
+dish_rack: {}
+dishtowel:
+  Tag_Dishtowel_Basket_Weave_Red:
+    bottom_cabinet-kitchen-in: 0.3333333333333333
+    counter-kitchen-onTop: 0.6666666666666666
+  Tag_Dishtowel_Dobby_Stripe_Blue:
+    bottom_cabinet-kitchen-in: 0.3333333333333333
+    counter-kitchen-onTop: 0.6666666666666666
+  Tag_Dishtowel_Green:
+    bottom_cabinet-kitchen-in: 0.3333333333333333
+    counter-kitchen-onTop: 0.6666666666666666
+  Tag_Dishtowel_Waffle_Gray_Checks:
+    bottom_cabinet-kitchen-in: 0.3333333333333333
+    counter-kitchen-onTop: 0.6666666666666666
+dishwasher: {}
+document: {}
+door: {}
+dress: {}
+drill: {}
+drumstick: {}
+dryer: {}
+duffel_bag: {}
+dustpan: {}
+egg: {}
+eggplant: {}
+envelope:
+  envelope_000:
+    coffee_table-living_room-onTop: 0.3333333333333333
+    shelf-home_office-in: 0.16666666666666666
+    table-lobby-onTop: 0.16666666666666666
+eraser: {}
+facsimile: {}
+fillet: {}
+fish: {}
+floor_lamp: {}
+flour:
+  '12':
+    counter-kitchen-onTop: 0.6666666666666666
+    counter-pantry_room-onTop: 0.3333333333333333
+    top_cabinet-kitchen-in: 0.3333333333333333
+  '13':
+    counter-kitchen-onTop: 0.6666666666666666
+    counter-pantry_room-onTop: 0.3333333333333333
+    top_cabinet-kitchen-in: 0.3333333333333333
+  '14':
+    counter-kitchen-onTop: 0.6666666666666666
+    counter-pantry_room-onTop: 0.3333333333333333
+    top_cabinet-kitchen-in: 0.3333333333333333
+  '15':
+    counter-kitchen-onTop: 0.6666666666666666
+    counter-pantry_room-onTop: 0.3333333333333333
+    top_cabinet-kitchen-in: 0.3333333333333333
+  '16':
+    counter-kitchen-onTop: 0.6666666666666666
+    counter-pantry_room-onTop: 0.3333333333333333
+    top_cabinet-kitchen-in: 0.3333333333333333
+  '20':
+    counter-kitchen-onTop: 0.6666666666666666
+    counter-pantry_room-onTop: 0.3333333333333333
+    top_cabinet-kitchen-in: 0.3333333333333333
+  '21':
+    counter-kitchen-onTop: 0.6666666666666666
+    counter-pantry_room-onTop: 0.3333333333333333
+    top_cabinet-kitchen-in: 0.3333333333333333
+  '30':
+    counter-kitchen-onTop: 0.6666666666666666
+    counter-pantry_room-onTop: 0.3333333333333333
+    top_cabinet-kitchen-in: 0.3333333333333333
+folder: {}
+folderal: {}
+folding_chair: {}
+foot_rule: {}
+fridge: {}
+frying_pan:
+  '36_0':
+    cooktop-kitchen-onTop: 1.0
+gaming_table: {}
+ginger: {}
+gingerbread: {}
+glass: {}
+glove:
+  Clorox_Premium_Choice_Gloves_SM_1_pair:
+    bottom_cabinet-kitchen-in: 0.6666666666666666
+    bottom_cabinet_no_top-bathroom-in: 0.3333333333333333
+    top_cabinet-utility_room-in: 0.3333333333333333
+  Rexy_Glove_Heavy_Duty_Gloves_Medium_Blue:
+    bottom_cabinet-kitchen-in: 0.6666666666666666
+    bottom_cabinet_no_top-bathroom-in: 0.3333333333333333
+    top_cabinet-utility_room-in: 0.3333333333333333
+  Rexy_Glove_Heavy_Duty_Large_Orange_Black:
+    bottom_cabinet-kitchen-in: 0.6666666666666666
+    bottom_cabinet_no_top-bathroom-in: 0.3333333333333333
+    top_cabinet-utility_room-in: 0.3333333333333333
+gooseberry: {}
+grandfather_clock: {}
+grape: {}
+grater:
+  '55_0':
+    counter-kitchen-onTop: 1.0
+green_onion: {}
+green_onion_chopped: {}
+griddle: {}
+grill: {}
+guacamole: {}
+guitar: {}
+gym_shoe:
+  F5_TRX_FG_adidas_soccer_show_yellow:
+    bottom_cabinet-closet-in: 0.22222222222222224
+    bottom_cabinet-lobby-in: 1.1111111111111112
+    shelf-closet-in: 0.5
+    treadmill-exercise_room-onTop: 0.0
+  FYW_DIVISION_adidas_basketball_shoe_grey:
+    bottom_cabinet-closet-in: 0.22222222222222224
+    bottom_cabinet-lobby-in: 1.1111111111111112
+    shelf-closet-in: 0.5
+    treadmill-exercise_room-onTop: 0.0
+  TERREX_FAST_blue_sneaker:
+    bottom_cabinet-closet-in: 0.22222222222222224
+    bottom_cabinet-lobby-in: 1.1111111111111112
+    shelf-closet-in: 0.5
+    treadmill-exercise_room-onTop: 0.0
+  TOP_TEN_HI_red_sneaker_shoe:
+    bottom_cabinet-closet-in: 0.22222222222222224
+    bottom_cabinet-lobby-in: 1.1111111111111112
+    shelf-closet-in: 0.5
+    treadmill-exercise_room-onTop: 0.0
+  TZX_Runner_adidas_purple_grey_shoe:
+    bottom_cabinet-closet-in: 0.22222222222222224
+    bottom_cabinet-lobby-in: 1.1111111111111112
+    shelf-closet-in: 0.5
+    treadmill-exercise_room-onTop: 0.0
+  ZX700_adidas_black_orange_sneaker:
+    bottom_cabinet-closet-in: 0.22222222222222224
+    bottom_cabinet-lobby-in: 1.1111111111111112
+    shelf-closet-in: 0.5
+    treadmill-exercise_room-onTop: 0.0
+  ZX700_adidas_purple_yellow_show:
+    bottom_cabinet-closet-in: 0.22222222222222224
+    bottom_cabinet-lobby-in: 1.1111111111111112
+    shelf-closet-in: 0.5
+    treadmill-exercise_room-onTop: 0.0
+  ZX700_adidas_white_red_sneaker:
+    bottom_cabinet-closet-in: 0.22222222222222224
+    bottom_cabinet-lobby-in: 1.1111111111111112
+    shelf-closet-in: 0.5
+    treadmill-exercise_room-onTop: 0.0
+  ZigKick_Hoops_reebok_blue_white_show:
+    bottom_cabinet-closet-in: 0.22222222222222224
+    bottom_cabinet-lobby-in: 1.1111111111111112
+    shelf-closet-in: 0.5
+    treadmill-exercise_room-onTop: 0.0
+  adistar_boost_yellow_grey:
+    bottom_cabinet-closet-in: 0.22222222222222224
+    bottom_cabinet-lobby-in: 1.1111111111111112
+    shelf-closet-in: 0.5
+    treadmill-exercise_room-onTop: 0.0
+hairbrush:
+  hairbrush_000:
+    counter-bathroom-onTop: 1.0
+    shelf-bathroom-in: 0.5
+    bedroom-table-onTop: 0.4
+hamburger: {}
+hammer: {}
+hand_towel:
+  Threshold_Hand_Towel_Light_Yellow:
+    counter-kitchen-onTop: 1.0
+    shelf-bathroom-in: 0.6
+hanger: {}
+hard_drive: {}
+hardback: {}
+hat:
+  DPC_Handmade_Hat_Brown:
+    shelf-home_office-in: 1.4285714285714286
+    table-lobby-onTop: 0.7142857142857143
+  DPC_tropical_Trends_straw_Hat:
+    shelf-home_office-in: 1.4285714285714286
+    table-lobby-onTop: 0.7142857142857143
+  Retail_Leadership_Summit_Grey_Trilby:
+    shelf-home_office-in: 1.4285714285714286
+    table-lobby-onTop: 0.7142857142857143
+  Retail_Leadership_Summit_Straw_Hat:
+    shelf-home_office-in: 1.4285714285714286
+    table-lobby-onTop: 0.7142857142857143
+head_cabbage: {}
+headset:
+  Razer_Kraken_Pro_headset_Full_size_Black:
+    shelf-home_office-in: 1.0
+    table-home_office-onTop: 0.5
+heater: {}
+highchair: {}
+highlighter:
+  09_0:
+    shelf-childs_room-in: 0.5
+    shelf-home_office-in: 1.0
+  09_1:
+    shelf-childs_room-in: 0.5
+    shelf-home_office-in: 1.0
+  09_2:
+    shelf-childs_room-in: 0.5
+    shelf-home_office-in: 1.0
+  09_3:
+    shelf-childs_room-in: 0.5
+    shelf-home_office-in: 1.0
+hinge: {}
+honing_steel: {}
+hook: {}
+hose: {}
+ice_cube: {}
+ink_cartridge:
+  Epson_273XL_Ink_Cartridge_Magenta:
+    shelf-home_office-in: 1.0
+  Epson_Ink_Cartridge_126_Yellow:
+    shelf-home_office-in: 1.0
+  Office_Depot_Canon_CLI_221BK_Ink_Cartridge_Black_2946B001:
+    shelf-home_office-in: 1.0
+iron: {}
+jam: {}
+jar:
+  '03_0':
+    bottom_cabinet-television_room-onTop: 0.026006349206349207
+    coffee_table-television_room-onTop: 0.008668783068783067
+    counter-dining_room-onTop: 0.2
+    counter-kitchen-onTop: 0.0019263962375073488
+    counter-storage_room-onTop: 0.09142857142857143
+    shelf-garage-in: 0.16
+    shelf-kitchen-in: 0.08126984126984127
+    shelf-storage_room-in: 0.12190476190476189
+    shelf-television_room-in: 0.032507936507936507
+    table-home_office-onTop: 0.0019263962375073488
+    table-kitchen-onTop: 0.0038527924750146976
+    table-living_room-onTop: 0.013003174603174603
+    table-lobby-onTop: 0.002889594356261022
+    table-playroom-onTop: 0.005779188712522044
+  '03_1':
+    bottom_cabinet-television_room-onTop: 0.026006349206349207
+    coffee_table-television_room-onTop: 0.008668783068783067
+    counter-dining_room-onTop: 0.2
+    counter-kitchen-onTop: 0.0019263962375073488
+    counter-storage_room-onTop: 0.09142857142857143
+    shelf-garage-in: 0.16
+    shelf-kitchen-in: 0.08126984126984127
+    shelf-storage_room-in: 0.12190476190476189
+    shelf-television_room-in: 0.032507936507936507
+    table-home_office-onTop: 0.0019263962375073488
+    table-kitchen-onTop: 0.0038527924750146976
+    table-living_room-onTop: 0.013003174603174603
+    table-lobby-onTop: 0.002889594356261022
+    table-playroom-onTop: 0.005779188712522044
+  '03_10':
+    bottom_cabinet-television_room-onTop: 0.026006349206349207
+    coffee_table-television_room-onTop: 0.008668783068783067
+    counter-dining_room-onTop: 0.2
+    counter-kitchen-onTop: 0.0019263962375073488
+    counter-storage_room-onTop: 0.09142857142857143
+    shelf-garage-in: 0.16
+    shelf-kitchen-in: 0.08126984126984127
+    shelf-storage_room-in: 0.12190476190476189
+    shelf-television_room-in: 0.032507936507936507
+    table-home_office-onTop: 0.0019263962375073488
+    table-kitchen-onTop: 0.0038527924750146976
+    table-living_room-onTop: 0.013003174603174603
+    table-lobby-onTop: 0.002889594356261022
+    table-playroom-onTop: 0.005779188712522044
+  '03_11':
+    bottom_cabinet-television_room-onTop: 0.026006349206349207
+    coffee_table-television_room-onTop: 0.008668783068783067
+    counter-dining_room-onTop: 0.2
+    counter-kitchen-onTop: 0.0019263962375073488
+    counter-storage_room-onTop: 0.09142857142857143
+    shelf-garage-in: 0.16
+    shelf-kitchen-in: 0.08126984126984127
+    shelf-storage_room-in: 0.12190476190476189
+    shelf-television_room-in: 0.032507936507936507
+    table-home_office-onTop: 0.0019263962375073488
+    table-kitchen-onTop: 0.0038527924750146976
+    table-living_room-onTop: 0.013003174603174603
+    table-lobby-onTop: 0.002889594356261022
+    table-playroom-onTop: 0.005779188712522044
+  '03_12':
+    bottom_cabinet-television_room-onTop: 0.026006349206349207
+    coffee_table-television_room-onTop: 0.008668783068783067
+    counter-dining_room-onTop: 0.2
+    counter-kitchen-onTop: 0.0019263962375073488
+    counter-storage_room-onTop: 0.09142857142857143
+    shelf-garage-in: 0.16
+    shelf-kitchen-in: 0.08126984126984127
+    shelf-storage_room-in: 0.12190476190476189
+    shelf-television_room-in: 0.032507936507936507
+    table-home_office-onTop: 0.0019263962375073488
+    table-kitchen-onTop: 0.0038527924750146976
+    table-living_room-onTop: 0.013003174603174603
+    table-lobby-onTop: 0.002889594356261022
+    table-playroom-onTop: 0.005779188712522044
+  '03_13':
+    bottom_cabinet-television_room-onTop: 0.026006349206349207
+    coffee_table-television_room-onTop: 0.008668783068783067
+    counter-dining_room-onTop: 0.2
+    counter-kitchen-onTop: 0.0019263962375073488
+    counter-storage_room-onTop: 0.09142857142857143
+    shelf-garage-in: 0.16
+    shelf-kitchen-in: 0.08126984126984127
+    shelf-storage_room-in: 0.12190476190476189
+    shelf-television_room-in: 0.032507936507936507
+    table-home_office-onTop: 0.0019263962375073488
+    table-kitchen-onTop: 0.0038527924750146976
+    table-living_room-onTop: 0.013003174603174603
+    table-lobby-onTop: 0.002889594356261022
+    table-playroom-onTop: 0.005779188712522044
+  '03_14':
+    bottom_cabinet-television_room-onTop: 0.026006349206349207
+    coffee_table-television_room-onTop: 0.008668783068783067
+    counter-dining_room-onTop: 0.2
+    counter-kitchen-onTop: 0.0019263962375073488
+    counter-storage_room-onTop: 0.09142857142857143
+    shelf-garage-in: 0.16
+    shelf-kitchen-in: 0.08126984126984127
+    shelf-storage_room-in: 0.12190476190476189
+    shelf-television_room-in: 0.032507936507936507
+    table-home_office-onTop: 0.0019263962375073488
+    table-kitchen-onTop: 0.0038527924750146976
+    table-living_room-onTop: 0.013003174603174603
+    table-lobby-onTop: 0.002889594356261022
+    table-playroom-onTop: 0.005779188712522044
+  '03_15':
+    bottom_cabinet-television_room-onTop: 0.026006349206349207
+    coffee_table-television_room-onTop: 0.008668783068783067
+    counter-dining_room-onTop: 0.2
+    counter-kitchen-onTop: 0.0019263962375073488
+    counter-storage_room-onTop: 0.09142857142857143
+    shelf-garage-in: 0.16
+    shelf-kitchen-in: 0.08126984126984127
+    shelf-storage_room-in: 0.12190476190476189
+    shelf-television_room-in: 0.032507936507936507
+    table-home_office-onTop: 0.0019263962375073488
+    table-kitchen-onTop: 0.0038527924750146976
+    table-living_room-onTop: 0.013003174603174603
+    table-lobby-onTop: 0.002889594356261022
+    table-playroom-onTop: 0.005779188712522044
+  '03_3':
+    bottom_cabinet-television_room-onTop: 0.026006349206349207
+    coffee_table-television_room-onTop: 0.008668783068783067
+    counter-dining_room-onTop: 0.2
+    counter-kitchen-onTop: 0.0019263962375073488
+    counter-storage_room-onTop: 0.09142857142857143
+    shelf-garage-in: 0.16
+    shelf-kitchen-in: 0.08126984126984127
+    shelf-storage_room-in: 0.12190476190476189
+    shelf-television_room-in: 0.032507936507936507
+    table-home_office-onTop: 0.0019263962375073488
+    table-kitchen-onTop: 0.0038527924750146976
+    table-living_room-onTop: 0.013003174603174603
+    table-lobby-onTop: 0.002889594356261022
+    table-playroom-onTop: 0.005779188712522044
+  '03_4':
+    bottom_cabinet-television_room-onTop: 0.026006349206349207
+    coffee_table-television_room-onTop: 0.008668783068783067
+    counter-dining_room-onTop: 0.2
+    counter-kitchen-onTop: 0.0019263962375073488
+    counter-storage_room-onTop: 0.09142857142857143
+    shelf-garage-in: 0.16
+    shelf-kitchen-in: 0.08126984126984127
+    shelf-storage_room-in: 0.12190476190476189
+    shelf-television_room-in: 0.032507936507936507
+    table-home_office-onTop: 0.0019263962375073488
+    table-kitchen-onTop: 0.0038527924750146976
+    table-living_room-onTop: 0.013003174603174603
+    table-lobby-onTop: 0.002889594356261022
+    table-playroom-onTop: 0.005779188712522044
+  '03_5':
+    bottom_cabinet-television_room-onTop: 0.026006349206349207
+    coffee_table-television_room-onTop: 0.008668783068783067
+    counter-dining_room-onTop: 0.2
+    counter-kitchen-onTop: 0.0019263962375073488
+    counter-storage_room-onTop: 0.09142857142857143
+    shelf-garage-in: 0.16
+    shelf-kitchen-in: 0.08126984126984127
+    shelf-storage_room-in: 0.12190476190476189
+    shelf-television_room-in: 0.032507936507936507
+    table-home_office-onTop: 0.0019263962375073488
+    table-kitchen-onTop: 0.0038527924750146976
+    table-living_room-onTop: 0.013003174603174603
+    table-lobby-onTop: 0.002889594356261022
+    table-playroom-onTop: 0.005779188712522044
+  '03_6':
+    bottom_cabinet-television_room-onTop: 0.026006349206349207
+    coffee_table-television_room-onTop: 0.008668783068783067
+    counter-dining_room-onTop: 0.2
+    counter-kitchen-onTop: 0.0019263962375073488
+    counter-storage_room-onTop: 0.09142857142857143
+    shelf-garage-in: 0.16
+    shelf-kitchen-in: 0.08126984126984127
+    shelf-storage_room-in: 0.12190476190476189
+    shelf-television_room-in: 0.032507936507936507
+    table-home_office-onTop: 0.0019263962375073488
+    table-kitchen-onTop: 0.0038527924750146976
+    table-living_room-onTop: 0.013003174603174603
+    table-lobby-onTop: 0.002889594356261022
+    table-playroom-onTop: 0.005779188712522044
+  '03_7':
+    bottom_cabinet-television_room-onTop: 0.026006349206349207
+    coffee_table-television_room-onTop: 0.008668783068783067
+    counter-dining_room-onTop: 0.2
+    counter-kitchen-onTop: 0.0019263962375073488
+    counter-storage_room-onTop: 0.09142857142857143
+    shelf-garage-in: 0.16
+    shelf-kitchen-in: 0.08126984126984127
+    shelf-storage_room-in: 0.12190476190476189
+    shelf-television_room-in: 0.032507936507936507
+    table-home_office-onTop: 0.0019263962375073488
+    table-kitchen-onTop: 0.0038527924750146976
+    table-living_room-onTop: 0.013003174603174603
+    table-lobby-onTop: 0.002889594356261022
+    table-playroom-onTop: 0.005779188712522044
+  03_8:
+    bottom_cabinet-television_room-onTop: 0.026006349206349207
+    coffee_table-television_room-onTop: 0.008668783068783067
+    counter-dining_room-onTop: 0.2
+    counter-kitchen-onTop: 0.0019263962375073488
+    counter-storage_room-onTop: 0.09142857142857143
+    shelf-garage-in: 0.16
+    shelf-kitchen-in: 0.08126984126984127
+    shelf-storage_room-in: 0.12190476190476189
+    shelf-television_room-in: 0.032507936507936507
+    table-home_office-onTop: 0.0019263962375073488
+    table-kitchen-onTop: 0.0038527924750146976
+    table-living_room-onTop: 0.013003174603174603
+    table-lobby-onTop: 0.002889594356261022
+    table-playroom-onTop: 0.005779188712522044
+  03_9:
+    bottom_cabinet-television_room-onTop: 0.026006349206349207
+    coffee_table-television_room-onTop: 0.008668783068783067
+    counter-dining_room-onTop: 0.2
+    counter-kitchen-onTop: 0.0019263962375073488
+    counter-storage_room-onTop: 0.09142857142857143
+    shelf-garage-in: 0.16
+    shelf-kitchen-in: 0.08126984126984127
+    shelf-storage_room-in: 0.12190476190476189
+    shelf-television_room-in: 0.032507936507936507
+    table-home_office-onTop: 0.0019263962375073488
+    table-kitchen-onTop: 0.0038527924750146976
+    table-living_room-onTop: 0.013003174603174603
+    table-lobby-onTop: 0.002889594356261022
+    table-playroom-onTop: 0.005779188712522044
+  '25_0':
+    bottom_cabinet-television_room-onTop: 0.026006349206349207
+    coffee_table-television_room-onTop: 0.008668783068783067
+    counter-dining_room-onTop: 0.2
+    counter-kitchen-onTop: 0.0019263962375073488
+    counter-storage_room-onTop: 0.09142857142857143
+    shelf-garage-in: 0.16
+    shelf-kitchen-in: 0.08126984126984127
+    shelf-storage_room-in: 0.12190476190476189
+    shelf-television_room-in: 0.032507936507936507
+    table-home_office-onTop: 0.0019263962375073488
+    table-kitchen-onTop: 0.0038527924750146976
+    table-living_room-onTop: 0.013003174603174603
+    table-lobby-onTop: 0.002889594356261022
+    table-playroom-onTop: 0.005779188712522044
+  '26_0':
+    bottom_cabinet-television_room-onTop: 0.026006349206349207
+    coffee_table-television_room-onTop: 0.008668783068783067
+    counter-dining_room-onTop: 0.2
+    counter-kitchen-onTop: 0.0019263962375073488
+    counter-storage_room-onTop: 0.09142857142857143
+    shelf-garage-in: 0.16
+    shelf-kitchen-in: 0.08126984126984127
+    shelf-storage_room-in: 0.12190476190476189
+    shelf-television_room-in: 0.032507936507936507
+    table-home_office-onTop: 0.0019263962375073488
+    table-kitchen-onTop: 0.0038527924750146976
+    table-living_room-onTop: 0.013003174603174603
+    table-lobby-onTop: 0.002889594356261022
+    table-playroom-onTop: 0.005779188712522044
+  '28_0':
+    bottom_cabinet-television_room-onTop: 0.026006349206349207
+    coffee_table-television_room-onTop: 0.008668783068783067
+    counter-dining_room-onTop: 0.2
+    counter-kitchen-onTop: 0.0019263962375073488
+    counter-storage_room-onTop: 0.09142857142857143
+    shelf-garage-in: 0.16
+    shelf-kitchen-in: 0.08126984126984127
+    shelf-storage_room-in: 0.12190476190476189
+    shelf-television_room-in: 0.032507936507936507
+    table-home_office-onTop: 0.0019263962375073488
+    table-kitchen-onTop: 0.0038527924750146976
+    table-living_room-onTop: 0.013003174603174603
+    table-lobby-onTop: 0.002889594356261022
+    table-playroom-onTop: 0.005779188712522044
+  '32_0':
+    bottom_cabinet-television_room-onTop: 0.026006349206349207
+    coffee_table-television_room-onTop: 0.008668783068783067
+    counter-dining_room-onTop: 0.2
+    counter-kitchen-onTop: 0.0019263962375073488
+    counter-storage_room-onTop: 0.09142857142857143
+    shelf-garage-in: 0.16
+    shelf-kitchen-in: 0.08126984126984127
+    shelf-storage_room-in: 0.12190476190476189
+    shelf-television_room-in: 0.032507936507936507
+    table-home_office-onTop: 0.0019263962375073488
+    table-kitchen-onTop: 0.0038527924750146976
+    table-living_room-onTop: 0.013003174603174603
+    table-lobby-onTop: 0.002889594356261022
+    table-playroom-onTop: 0.005779188712522044
+jeans: {}
+jewel: {}
+juice: {}
+kettle:
+  '04_0':
+    cooktop-kitchen-onTop: 1.0
+    counter-kitchen-onTop: 0.5
+  '04_1':
+    cooktop-kitchen-onTop: 1.0
+    counter-kitchen-onTop: 0.5
+  '05_0':
+    cooktop-kitchen-onTop: 1.0
+    counter-kitchen-onTop: 0.5
+  '06_0':
+    cooktop-kitchen-onTop: 1.0
+    counter-kitchen-onTop: 0.5
+keyboard:
+  Razer_BlackWidow_Ultimate_2014_Mechanical_Gaming_Keyboard:
+    shelf-garage-in: 0.2
+    table-bedroom-onTop: 0.13333333333333333
+    table-childs_room-onTop: 0.26666666666666666
+    table-home_office-onTop: 0.13333333333333333
+kitchen_analog_scale: {}
+kiwi: {}
+ladder: {}
+laptop: {}
+lasagna: {}
+lawn_mower: {}
+lemon: {}
+lettuce:
+  '31_0':
+    fridge-kitchen-in: 1.0
+lid:
+  '03_16':
+    bottom_cabinet-kitchen-in: 1.0
+  '07_0':
+    bottom_cabinet-kitchen-in: 1.0
+  09_0:
+    bottom_cabinet-kitchen-in: 1.0
+  '18_0':
+    bottom_cabinet-kitchen-in: 1.0
+  '19_0':
+    bottom_cabinet-kitchen-in: 1.0
+  '20_0':
+    bottom_cabinet-kitchen-in: 1.0
+  '32_0':
+    bottom_cabinet-kitchen-in: 1.0
+  '38_0':
+    bottom_cabinet-kitchen-in: 1.0
+  '38_1':
+    bottom_cabinet-kitchen-in: 1.0
+  '39_0':
+    bottom_cabinet-kitchen-in: 1.0
+  '40_0':
+    bottom_cabinet-kitchen-in: 1.0
+  '42_0':
+    bottom_cabinet-kitchen-in: 1.0
+  '43_0':
+    bottom_cabinet-kitchen-in: 1.0
+  '44_0':
+    bottom_cabinet-kitchen-in: 1.0
+  '48_0':
+    bottom_cabinet-kitchen-in: 1.0
+  '51_0':
+    bottom_cabinet-kitchen-in: 1.0
+  '52_0':
+    bottom_cabinet-kitchen-in: 1.0
+  '57_0':
+    bottom_cabinet-kitchen-in: 1.0
+  '64_2':
+    bottom_cabinet-kitchen-in: 1.0
+  '65_0':
+    bottom_cabinet-kitchen-in: 1.0
+  '67_1':
+    bottom_cabinet-kitchen-in: 1.0
+  '69_0':
+    bottom_cabinet-kitchen-in: 1.0
+light_bulb: {}
+lime: {}
+lipstick: {}
+lollipop: {}
+lotion: {}
+loudspeaker: {}
+low-fat_milk:
+  '17':
+    counter-kitchen-onTop: 0.7692307692307692
+    fridge-kitchen-in: 0.6153846153846154
+  '18':
+    counter-kitchen-onTop: 0.7692307692307692
+    fridge-kitchen-in: 0.6153846153846154
+  '19':
+    counter-kitchen-onTop: 0.7692307692307692
+    fridge-kitchen-in: 0.6153846153846154
+  '2':
+    counter-kitchen-onTop: 0.7692307692307692
+    fridge-kitchen-in: 0.6153846153846154
+magazine: {}
+margarine:
+  '22':
+    fridge-kitchen-in: 1.0
+  '23':
+    fridge-kitchen-in: 1.0
+martini: {}
+mat: {}
+mayonnaise: {}
+medicine:
+  CoQ10_Pills_Grey:
+    top_cabinet-bathroom-in: 0.8
+    table-bedroom-onTop: 0.2
+    table-childs_room-onTop: 0.2
+    kitchen-top_cabinet-in: 0.4
+  Krill_Oil_Pills_Blue:
+    top_cabinet-bathroom-in: 1.0
+  LTyrosine_Pills_Red:
+    top_cabinet-bathroom-in: 1.0
+  Lactoferrin_Pills_Dark_Blue:
+    top_cabinet-bathroom-in: 1.0
+  Lutein_Pills_Orange_Yellow:
+    top_cabinet-bathroom-in: 1.0
+  PhosphOmega_Pills_Light_Blue_Red:
+    top_cabinet-bathroom-in: 1.0
+  Womens_Multi_Dark_Red:
+    top_cabinet-bathroom-in: 1.0
+  YumYum_D3_Liquid_Box_Orange:
+    top_cabinet-bathroom-in: 1.0
+microwave: {}
+milk: {}
+mirror: {}
+modem: {}
+monitor: {}
+mouse:
+  Razer_Naga_MMO_Gaming_Mouse:
+    shelf-garage-in: 0.2
+    table-bedroom-onTop: 0.4
+    table-home_office-onTop: 0.4
+mousetrap: {}
+muffin: {}
+mug:
+  08_0:
+    coffee_table-living_room-onTop: 0.26455026455026465
+    dishwasher-kitchen-in: 0.18518518518518523
+    table-kitchen-onTop: 0.25
+    top_cabinet-kitchen-in: 1.322751322751323
+mushroom: {}
+necklace: {}
+newspaper: {}
+notebook: {}
+oatmeal: {}
+olive: {}
+olive_oil:
+  '35_0':
+    counter-kitchen-onTop: 1.0
+    top_cabinet-kitchen-in: 0.5
+orange: {}
+oven: {}
+package: {}
+paint: {}
+paintbrush: {}
+painting: {}
+pajamas: {}
+paper_bag: {}
+paper_clip: {}
+paper_towel: {}
+paper_towel_holder: {}
+parmesan:
+  '26':
+    fridge-kitchen-in: 1.0
+  '29':
+    fridge-kitchen-in: 1.0
+  '33':
+    fridge-kitchen-in: 1.0
+parsley: {}
+pasta: {}
+pea: {}
+peach: {}
+pear: {}
+pedestal_table: {}
+pegboard: {}
+pen: {}
+pencil: {}
+pencil_box:
+  '13_0':
+    table-childs_room-onTop: 1.0
+  '13_1':
+    table-childs_room-onTop: 1.0
+penne:
+  '12':
+    shelf-kitchen-in: 0.3333333333333333
+    top_cabinet-kitchen-in: 0.6666666666666666
+    top_cabinet-pantry_room-in: 0.3333333333333333
+  '18':
+    shelf-kitchen-in: 0.3333333333333333
+    top_cabinet-kitchen-in: 0.6666666666666666
+    top_cabinet-pantry_room-in: 0.3333333333333333
+  '19':
+    shelf-kitchen-in: 0.3333333333333333
+    top_cabinet-kitchen-in: 0.6666666666666666
+    top_cabinet-pantry_room-in: 0.3333333333333333
+  '20':
+    shelf-kitchen-in: 0.3333333333333333
+    top_cabinet-kitchen-in: 0.6666666666666666
+    top_cabinet-pantry_room-in: 0.3333333333333333
+  '22':
+    shelf-kitchen-in: 0.3333333333333333
+    top_cabinet-kitchen-in: 0.6666666666666666
+    top_cabinet-pantry_room-in: 0.3333333333333333
+  '24':
+    shelf-kitchen-in: 0.3333333333333333
+    top_cabinet-kitchen-in: 0.6666666666666666
+    top_cabinet-pantry_room-in: 0.3333333333333333
+pepper_grinder: {}
+perfume: {}
+piano: {}
+picture: {}
+pillow: {}
+pineapple: {}
+pistachio: {}
+plate:
+  plate_000:
+    table-dining_room-onTop: 0.1
+    table-top_cabinet-in: 0.9
+platter: {}
+plum: {}
+plywood: {}
+pocketknife: {}
+pomegranate: {}
+pomelo: {}
+pool: {}
+pool_table: {}
+pop:
+  '1':
+    fridge-kitchen-in: 0.8
+    shelf-closet-in: 0.2
+    top_cabinet-kitchen-in: 0.4
+  '10':
+    fridge-kitchen-in: 0.8
+    shelf-closet-in: 0.2
+    top_cabinet-kitchen-in: 0.4
+  '11':
+    fridge-kitchen-in: 0.8
+    shelf-closet-in: 0.2
+    top_cabinet-kitchen-in: 0.4
+  '12':
+    fridge-kitchen-in: 0.8
+    shelf-closet-in: 0.2
+    top_cabinet-kitchen-in: 0.4
+  '13':
+    fridge-kitchen-in: 0.8
+    shelf-closet-in: 0.2
+    top_cabinet-kitchen-in: 0.4
+  '14':
+    fridge-kitchen-in: 0.8
+    shelf-closet-in: 0.2
+    top_cabinet-kitchen-in: 0.4
+  '15':
+    fridge-kitchen-in: 0.8
+    shelf-closet-in: 0.2
+    top_cabinet-kitchen-in: 0.4
+  '16':
+    fridge-kitchen-in: 0.8
+    shelf-closet-in: 0.2
+    top_cabinet-kitchen-in: 0.4
+  '17':
+    fridge-kitchen-in: 0.8
+    shelf-closet-in: 0.2
+    top_cabinet-kitchen-in: 0.4
+  '18':
+    fridge-kitchen-in: 0.8
+    shelf-closet-in: 0.2
+    top_cabinet-kitchen-in: 0.4
+  '19':
+    fridge-kitchen-in: 0.8
+    shelf-closet-in: 0.2
+    top_cabinet-kitchen-in: 0.4
+  '2':
+    fridge-kitchen-in: 0.8
+    shelf-closet-in: 0.2
+    top_cabinet-kitchen-in: 0.4
+  '20':
+    fridge-kitchen-in: 0.8
+    shelf-closet-in: 0.2
+    top_cabinet-kitchen-in: 0.4
+  '21':
+    fridge-kitchen-in: 0.8
+    shelf-closet-in: 0.2
+    top_cabinet-kitchen-in: 0.4
+  '22':
+    fridge-kitchen-in: 0.8
+    shelf-closet-in: 0.2
+    top_cabinet-kitchen-in: 0.4
+  '23':
+    fridge-kitchen-in: 0.8
+    shelf-closet-in: 0.2
+    top_cabinet-kitchen-in: 0.4
+  '24':
+    fridge-kitchen-in: 0.8
+    shelf-closet-in: 0.2
+    top_cabinet-kitchen-in: 0.4
+  '25':
+    fridge-kitchen-in: 0.8
+    shelf-closet-in: 0.2
+    top_cabinet-kitchen-in: 0.4
+  '26':
+    fridge-kitchen-in: 0.8
+    shelf-closet-in: 0.2
+    top_cabinet-kitchen-in: 0.4
+  '27':
+    fridge-kitchen-in: 0.8
+    shelf-closet-in: 0.2
+    top_cabinet-kitchen-in: 0.4
+  '28':
+    fridge-kitchen-in: 0.8
+    shelf-closet-in: 0.2
+    top_cabinet-kitchen-in: 0.4
+  '29':
+    fridge-kitchen-in: 0.8
+    shelf-closet-in: 0.2
+    top_cabinet-kitchen-in: 0.4
+  '3':
+    fridge-kitchen-in: 0.8
+    shelf-closet-in: 0.2
+    top_cabinet-kitchen-in: 0.4
+  '30':
+    fridge-kitchen-in: 0.8
+    shelf-closet-in: 0.2
+    top_cabinet-kitchen-in: 0.4
+  '31':
+    fridge-kitchen-in: 0.8
+    shelf-closet-in: 0.2
+    top_cabinet-kitchen-in: 0.4
+  '32':
+    fridge-kitchen-in: 0.8
+    shelf-closet-in: 0.2
+    top_cabinet-kitchen-in: 0.4
+  '33':
+    fridge-kitchen-in: 0.8
+    shelf-closet-in: 0.2
+    top_cabinet-kitchen-in: 0.4
+  '34':
+    fridge-kitchen-in: 0.8
+    shelf-closet-in: 0.2
+    top_cabinet-kitchen-in: 0.4
+  '35':
+    fridge-kitchen-in: 0.8
+    shelf-closet-in: 0.2
+    top_cabinet-kitchen-in: 0.4
+  '36':
+    fridge-kitchen-in: 0.8
+    shelf-closet-in: 0.2
+    top_cabinet-kitchen-in: 0.4
+  '37':
+    fridge-kitchen-in: 0.8
+    shelf-closet-in: 0.2
+    top_cabinet-kitchen-in: 0.4
+  '38':
+    fridge-kitchen-in: 0.8
+    shelf-closet-in: 0.2
+    top_cabinet-kitchen-in: 0.4
+  '39':
+    fridge-kitchen-in: 0.8
+    shelf-closet-in: 0.2
+    top_cabinet-kitchen-in: 0.4
+  '4':
+    fridge-kitchen-in: 0.8
+    shelf-closet-in: 0.2
+    top_cabinet-kitchen-in: 0.4
+  '40':
+    fridge-kitchen-in: 0.8
+    shelf-closet-in: 0.2
+    top_cabinet-kitchen-in: 0.4
+  '41':
+    fridge-kitchen-in: 0.8
+    shelf-closet-in: 0.2
+    top_cabinet-kitchen-in: 0.4
+  '42':
+    fridge-kitchen-in: 0.8
+    shelf-closet-in: 0.2
+    top_cabinet-kitchen-in: 0.4
+  '43':
+    fridge-kitchen-in: 0.8
+    shelf-closet-in: 0.2
+    top_cabinet-kitchen-in: 0.4
+  '44':
+    fridge-kitchen-in: 0.8
+    shelf-closet-in: 0.2
+    top_cabinet-kitchen-in: 0.4
+  '45':
+    fridge-kitchen-in: 0.8
+    shelf-closet-in: 0.2
+    top_cabinet-kitchen-in: 0.4
+  '46':
+    fridge-kitchen-in: 0.8
+    shelf-closet-in: 0.2
+    top_cabinet-kitchen-in: 0.4
+  '47':
+    fridge-kitchen-in: 0.8
+    shelf-closet-in: 0.2
+    top_cabinet-kitchen-in: 0.4
+  '48':
+    fridge-kitchen-in: 0.8
+    shelf-closet-in: 0.2
+    top_cabinet-kitchen-in: 0.4
+  '49':
+    fridge-kitchen-in: 0.8
+    shelf-closet-in: 0.2
+    top_cabinet-kitchen-in: 0.4
+  '5':
+    fridge-kitchen-in: 0.8
+    shelf-closet-in: 0.2
+    top_cabinet-kitchen-in: 0.4
+  '50':
+    fridge-kitchen-in: 0.8
+    shelf-closet-in: 0.2
+    top_cabinet-kitchen-in: 0.4
+  '51':
+    fridge-kitchen-in: 0.8
+    shelf-closet-in: 0.2
+    top_cabinet-kitchen-in: 0.4
+  '52':
+    fridge-kitchen-in: 0.8
+    shelf-closet-in: 0.2
+    top_cabinet-kitchen-in: 0.4
+  '53':
+    fridge-kitchen-in: 0.8
+    shelf-closet-in: 0.2
+    top_cabinet-kitchen-in: 0.4
+  '54':
+    fridge-kitchen-in: 0.8
+    shelf-closet-in: 0.2
+    top_cabinet-kitchen-in: 0.4
+  '55':
+    fridge-kitchen-in: 0.8
+    shelf-closet-in: 0.2
+    top_cabinet-kitchen-in: 0.4
+  '56':
+    fridge-kitchen-in: 0.8
+    shelf-closet-in: 0.2
+    top_cabinet-kitchen-in: 0.4
+  '6':
+    fridge-kitchen-in: 0.8
+    shelf-closet-in: 0.2
+    top_cabinet-kitchen-in: 0.4
+  '7':
+    fridge-kitchen-in: 0.8
+    shelf-closet-in: 0.2
+    top_cabinet-kitchen-in: 0.4
+  '8':
+    fridge-kitchen-in: 0.8
+    shelf-closet-in: 0.2
+    top_cabinet-kitchen-in: 0.4
+  '9':
+    fridge-kitchen-in: 0.8
+    shelf-closet-in: 0.2
+    top_cabinet-kitchen-in: 0.4
+pop_case: {}
+pork: {}
+pot_plant: {}
+potato: {}
+powder_bottle: {}
+pretzel: {}
+printer: {}
+prosciutto: {}
+protein_powder: {}
+pumpkin: {}
+puree: {}
+radish: {}
+rag: {}
+rail_fence: {}
+rake: {}
+range_hood: {}
+raspberry: {}
+razor: {}
+rib: {}
+ribbon: {}
+rice:
+  '17':
+    counter-kitchen-onTop: 1.0
+    top_cabinet-kitchen-in: 0.5
+  '18':
+    counter-kitchen-onTop: 1.0
+    top_cabinet-kitchen-in: 0.5
+  '29':
+    counter-kitchen-onTop: 1.0
+    top_cabinet-kitchen-in: 0.5
+  '36':
+    counter-kitchen-onTop: 1.0
+    top_cabinet-kitchen-in: 0.5
+ring: {}
+rocking_chair: {}
+roller: {}
+rosehip: {}
+router: {}
+salad: {}
+salt: {}
+sandal: {}
+saucepan: {}
+sausage:
+  sausage_000:
+    fridge-kitchen-in: 1.0
+saw: {}
+scanner: {}
+scarf: {}
+scissors: {}
+scraper: {}
+screwdriver: {}
+scrub_brush: {}
+shampoo: {}
+sheet: {}
+shelf: {}
+shoulder_bag: {}
+shower: {}
+sink: {}
+soap:
+  soap_000:
+    counter-bathroom-onTop: 1.0
+sock: {}
+soda:
+  blender_fixed:
+    counter-kitchen-onTop: 0.16666666666666669
+    fridge-kitchen-in: 1.6666666666666667
+sofa: {}
+soup: {}
+soup_ladle:
+  '01_2':
+    bottom_cabinet_no_top-kitchen-in: 1.6666666666666665
+    cooktop-kitchen-onTop: 0.6666666666666666
+  '01_3':
+    bottom_cabinet_no_top-kitchen-in: 1.6666666666666665
+    cooktop-kitchen-onTop: 0.6666666666666666
+spaghetti:
+  '00':
+    top_cabinet-kitchen-in: 1.0
+    top_cabinet-pantry_room-in: 0.5
+  '01':
+    top_cabinet-kitchen-in: 1.0
+    top_cabinet-pantry_room-in: 0.5
+  '02':
+    top_cabinet-kitchen-in: 1.0
+    top_cabinet-pantry_room-in: 0.5
+  '03':
+    top_cabinet-kitchen-in: 1.0
+    top_cabinet-pantry_room-in: 0.5
+  '04':
+    top_cabinet-kitchen-in: 1.0
+    top_cabinet-pantry_room-in: 0.5
+  '05':
+    top_cabinet-kitchen-in: 1.0
+    top_cabinet-pantry_room-in: 0.5
+  '06':
+    top_cabinet-kitchen-in: 1.0
+    top_cabinet-pantry_room-in: 0.5
+spaghetti_sauce:
+  '10':
+    fridge-kitchen-in: 1.0
+  '11':
+    fridge-kitchen-in: 1.0
+  '23':
+    fridge-kitchen-in: 1.0
+  '7':
+    fridge-kitchen-in: 1.0
+  '9':
+    fridge-kitchen-in: 1.0
+spatula: {}
+speaker_system: {}
+spinach: {}
+spoon: {}
+stand: {}
+standing_tv: {}
+steak: {}
+sticky_note:
+  '03_1':
+    shelf-childs_room-in: 0.5
+    shelf-home_office-in: 1.0
+stocking: {}
+stool: {}
+stove: {}
+straight_chair: {}
+straight_pin: {}
+straw: {}
+strawberry: {}
+sugar_jar: {}
+sunglass: {}
+sunscreen: {}
+sushi: {}
+sweater: {}
+sweet_corn: {}
+swivel_chair: {}
+t-shirt: {}
+table_knife: {}
+table_lamp: {}
+tablefork: {}
+tape:
+  '15_0':
+    shelf-home_office-in: 1.0
+    table-home_office-onTop: 0.4
+  '15_1':
+    shelf-home_office-in: 1.0
+    table-home_office-onTop: 0.4
+  '15_2':
+    shelf-home_office-in: 1.0
+    table-home_office-onTop: 0.4
+  3M_Antislip_Surfacing_Light_Duty_White:
+    shelf-home_office-in: 1.0
+    table-home_office-onTop: 0.4
+  3M_Vinyl_Tape_Green_1_x_36_yd:
+    shelf-home_office-in: 1.0
+    table-home_office-onTop: 0.4
+  Shurtape_Gaffers_Tape_Silver_2_x_60_yd:
+    shelf-home_office-in: 1.0
+    table-home_office-onTop: 0.4
+tart: {}
+tea_bag: {}
+teapot: {}
+thumbtack: {}
+tile: {}
+tinsel: {}
+toaster: {}
+toasting_fork: {}
+toilet: {}
+tomato: {}
+tongs: {}
+toothbrush: {}
+toothpaste: {}
+toothpick: {}
+top_cabinet: {}
+towel_rack: {}
+toy:
+  Air_Hogs_Wind_Flyers_Set_Airplane_Red:
+    carpet-childs_room-onTop: 0.8333333333333334
+    carpet-living_room-onTop: 0.16666666666666669
+    bed-childs_room-onTop: 0.16666666666666669
+    table-childs_room-onTop: 0.16666666666666669
+    box-childs_room-in: 0.8666666666666669
+    shelf-childs_room-in: 0.33333333333333337
+  Android_Figure_Orange:
+    carpet-childs_room-onTop: 0.8333333333333334
+    carpet-living_room-onTop: 0.16666666666666669
+    shelf-childs_room-in: 0.33333333333333337
+  Android_Figure_Panda_Black_White:
+    carpet-childs_room-onTop: 0.8333333333333334
+    carpet-living_room-onTop: 0.16666666666666669
+    shelf-childs_room-in: 0.33333333333333337
+  Android_Lego_Green:
+    carpet-childs_room-onTop: 0.8333333333333334
+    carpet-living_room-onTop: 0.16666666666666669
+    shelf-childs_room-in: 0.33333333333333337
+  Guardians_of_the_Galaxy_Galactic_Battlers_Rocket_Raccoon_Figure:
+    carpet-childs_room-onTop: 0.8333333333333334
+    carpet-living_room-onTop: 0.16666666666666669
+    shelf-childs_room-in: 0.33333333333333337
+  Nintendo_Mario_Action_Figure:
+    carpet-childs_room-onTop: 0.8333333333333334
+    carpet-living_room-onTop: 0.16666666666666669
+    shelf-childs_room-in: 0.33333333333333337
+  Nintendo_Yoshi_Action_Figure:
+    carpet-childs_room-onTop: 0.8333333333333334
+    carpet-living_room-onTop: 0.16666666666666669
+    shelf-childs_room-in: 0.33333333333333337
+  Playmates_Industrial_CoSplinter_Teenage_Mutant_Ninja_Turtle_Action_Figure:
+    carpet-childs_room-onTop: 0.8333333333333334
+    carpet-living_room-onTop: 0.16666666666666669
+    shelf-childs_room-in: 0.33333333333333337
+  Racoon_Plush_Toy:
+    carpet-childs_room-onTop: 0.8333333333333334
+    carpet-living_room-onTop: 0.16666666666666669
+    shelf-childs_room-in: 0.33333333333333337
+  Schleich_Allosaurus_Plastic_Toy:
+    carpet-childs_room-onTop: 0.8333333333333334
+    carpet-living_room-onTop: 0.16666666666666669
+    shelf-childs_room-in: 0.33333333333333337
+  Schleich_Bayala_Unicorn_Plastic_Toy:
+    carpet-childs_room-onTop: 0.8333333333333334
+    carpet-living_room-onTop: 0.16666666666666669
+    shelf-childs_room-in: 0.33333333333333337
+  Schleich_Hereford_Bull_Plastic_Toy:
+    carpet-childs_room-onTop: 0.8333333333333334
+    carpet-living_room-onTop: 0.16666666666666669
+    shelf-childs_room-in: 0.33333333333333337
+  Schleich_Lion_Action_Figure:
+    carpet-childs_room-onTop: 0.8333333333333334
+    carpet-living_room-onTop: 0.16666666666666669
+    shelf-childs_room-in: 0.33333333333333337
+  Schleich_Spinosaurus_Action_Figure:
+    carpet-childs_room-onTop: 0.8333333333333334
+    carpet-living_room-onTop: 0.16666666666666669
+    shelf-childs_room-in: 0.33333333333333337
+  Squirrel_Plush_Toy:
+    carpet-childs_room-onTop: 0.8333333333333334
+    carpet-living_room-onTop: 0.16666666666666669
+    shelf-childs_room-in: 0.33333333333333337
+  Teenage_Mutant_Ninja_Turtles_Rahzar_Action_Figure:
+    carpet-childs_room-onTop: 0.8333333333333334
+    carpet-living_room-onTop: 0.16666666666666669
+    shelf-childs_room-in: 0.33333333333333337
+  Transformers_Age_of_Extinction_Bumblebee_Action_Figure_Orange:
+    carpet-childs_room-onTop: 0.8333333333333334
+    carpet-living_room-onTop: 0.16666666666666669
+    shelf-childs_room-in: 0.33333333333333337
+  Transformers_Age_of_Extinction_Stomp_and_Chomp_Grimlock_Figure:
+    carpet-childs_room-onTop: 0.8333333333333334
+    carpet-living_room-onTop: 0.16666666666666669
+    shelf-childs_room-in: 0.33333333333333337
+  Vtech_Roll_Learn_Turtle_Plastic_Toy:
+    carpet-childs_room-onTop: 0.8333333333333334
+    carpet-living_room-onTop: 0.16666666666666669
+    shelf-childs_room-in: 0.33333333333333337
+  Vtech_Stack_Sing_Rings_636_Months_Colorful_Plastic_Toy:
+    carpet-childs_room-onTop: 0.8333333333333334
+    carpet-living_room-onTop: 0.16666666666666669
+    shelf-childs_room-in: 0.33333333333333337
+  Weisshai_Great_White_Shark_Plastic_Toy:
+    carpet-childs_room-onTop: 0.8333333333333334
+    carpet-living_room-onTop: 0.16666666666666669
+    shelf-childs_room-in: 0.33333333333333337
+  toy_000:
+    carpet-childs_room-onTop: 0.8333333333333334
+    carpet-living_room-onTop: 0.16666666666666669
+    shelf-childs_room-in: 0.33333333333333337
+trash_can: {}
+tray: {}
+treadmill: {}
+trowel: {}
+turnip: {}
+umbrella: {}
+underwear: {}
+vacuum: {}
+vidalia_onion: {}
+video_game:
+  Animal_Crossing_New_Leaf_Nintendo_3DS_Game:
+    counter-playroom-onTop: 0.16666666666666669
+    shelf-childs_room-in: 0.07407407407407407
+    shelf-home_office-in: 0.14814814814814814
+    shelf-living_room-in: 0.07407407407407407
+    shelf-playroom-in: 0.22222222222222224
+    shelf-television_room-in: 0.16666666666666669
+  Luigis_Mansion_Dark_Moon_Nintendo_3DS_Game:
+    counter-playroom-onTop: 0.16666666666666669
+    shelf-childs_room-in: 0.07407407407407407
+    shelf-home_office-in: 0.14814814814814814
+    shelf-living_room-in: 0.07407407407407407
+    shelf-playroom-in: 0.22222222222222224
+    shelf-television_room-in: 0.16666666666666669
+  Mario_Luigi_Dream_Team_Nintendo_3DS_Game:
+    counter-playroom-onTop: 0.16666666666666669
+    shelf-childs_room-in: 0.07407407407407407
+    shelf-home_office-in: 0.14814814814814814
+    shelf-living_room-in: 0.07407407407407407
+    shelf-playroom-in: 0.22222222222222224
+    shelf-television_room-in: 0.16666666666666669
+  Mario_Party_9_Wii_Game:
+    counter-playroom-onTop: 0.16666666666666669
+    shelf-childs_room-in: 0.07407407407407407
+    shelf-home_office-in: 0.14814814814814814
+    shelf-living_room-in: 0.07407407407407407
+    shelf-playroom-in: 0.22222222222222224
+    shelf-television_room-in: 0.16666666666666669
+  New_Super_Mario_BrosWii_Wii_Game:
+    counter-playroom-onTop: 0.16666666666666669
+    shelf-childs_room-in: 0.07407407407407407
+    shelf-home_office-in: 0.14814814814814814
+    shelf-living_room-in: 0.07407407407407407
+    shelf-playroom-in: 0.22222222222222224
+    shelf-television_room-in: 0.16666666666666669
+  Nintendo_2DS_Crimson_Red:
+    counter-playroom-onTop: 0.16666666666666669
+    shelf-childs_room-in: 0.07407407407407407
+    shelf-home_office-in: 0.14814814814814814
+    shelf-living_room-in: 0.07407407407407407
+    shelf-playroom-in: 0.22222222222222224
+    shelf-television_room-in: 0.16666666666666669
+  Nintendo_Wii_Party_U_with_Controller_Wii_U_Game:
+    counter-playroom-onTop: 0.16666666666666669
+    shelf-childs_room-in: 0.07407407407407407
+    shelf-home_office-in: 0.14814814814814814
+    shelf-living_room-in: 0.07407407407407407
+    shelf-playroom-in: 0.22222222222222224
+    shelf-television_room-in: 0.16666666666666669
+  Paper_Mario_Sticker_Star_Nintendo_3DS_Game:
+    counter-playroom-onTop: 0.16666666666666669
+    shelf-childs_room-in: 0.07407407407407407
+    shelf-home_office-in: 0.14814814814814814
+    shelf-living_room-in: 0.07407407407407407
+    shelf-playroom-in: 0.22222222222222224
+    shelf-television_room-in: 0.16666666666666669
+  Persona_Q_Shadow_of_the_Labyrinth_Nintendo_3DS:
+    counter-playroom-onTop: 0.16666666666666669
+    shelf-childs_room-in: 0.07407407407407407
+    shelf-home_office-in: 0.14814814814814814
+    shelf-living_room-in: 0.07407407407407407
+    shelf-playroom-in: 0.22222222222222224
+    shelf-television_room-in: 0.16666666666666669
+  Pokmon_X_Nintendo_3DS_Game:
+    counter-playroom-onTop: 0.16666666666666669
+    shelf-childs_room-in: 0.07407407407407407
+    shelf-home_office-in: 0.14814814814814814
+    shelf-living_room-in: 0.07407407407407407
+    shelf-playroom-in: 0.22222222222222224
+    shelf-television_room-in: 0.16666666666666669
+  Pokmon_Y_Nintendo_3DS_Game:
+    counter-playroom-onTop: 0.16666666666666669
+    shelf-childs_room-in: 0.07407407407407407
+    shelf-home_office-in: 0.14814814814814814
+    shelf-living_room-in: 0.07407407407407407
+    shelf-playroom-in: 0.22222222222222224
+    shelf-television_room-in: 0.16666666666666669
+  "Pok\xE9mon_Omega_Ruby_Alpha_Sapphire_Dual_Pack_Nintendo_3DS":
+    counter-playroom-onTop: 0.16666666666666669
+    shelf-childs_room-in: 0.07407407407407407
+    shelf-home_office-in: 0.14814814814814814
+    shelf-living_room-in: 0.07407407407407407
+    shelf-playroom-in: 0.22222222222222224
+    shelf-television_room-in: 0.16666666666666669
+  Super_Mario_3D_World_Wii_U_Game:
+    counter-playroom-onTop: 0.16666666666666669
+    shelf-childs_room-in: 0.07407407407407407
+    shelf-home_office-in: 0.14814814814814814
+    shelf-living_room-in: 0.07407407407407407
+    shelf-playroom-in: 0.22222222222222224
+    shelf-television_room-in: 0.16666666666666669
+vinegar: {}
+walker:
+  Mens_Gold_Cup_ASV_Dress_Casual_Venetian_in_Dark_Brown_Leather:
+    bottom_cabinet-lobby-in: 1.0
+    shelf-bedroom-in: 0.5
+  Timberland_Mens_Earthkeepers_Heritage_Boat_Shoe_Black:
+    bottom_cabinet-lobby-in: 1.0
+    shelf-bedroom-in: 0.5
+  Tory_Burch_Kaitlin_Ballet_Mestico_in_Black_Gold:
+    bottom_cabinet-lobby-in: 1.0
+    shelf-bedroom-in: 0.5
+  Womens_Angelfish_Boat_Shoe_in_Linen_Brown:
+    bottom_cabinet-lobby-in: 1.0
+    shelf-bedroom-in: 0.5
+  Womens_Authentic_Original_Boat_Shoe_in_Classic_Brown_Leather:
+    bottom_cabinet-lobby-in: 1.0
+    shelf-bedroom-in: 0.5
+  Womens_Authentic_Original_Boat_Shoe_in_Classic_Brown_Leather_48Nh7VuMwW6:
+    bottom_cabinet-lobby-in: 1.0
+    shelf-bedroom-in: 0.5
+wall_clock: {}
+wall_mounted_tv: {}
+wall_socket: {}
+walnut: {}
+washer: {}
+watch: {}
+water: {}
+watermelon: {}
+whiteboard: {}
+window: {}
+wine_bottle: {}
+wrapped_gift: {}
+wreath: {}
+yogurt:
+  '10':
+    fridge-kitchen-in: 1.0
+  '11':
+    fridge-kitchen-in: 1.0
+  '12':
+    fridge-kitchen-in: 1.0
+  '13':
+    fridge-kitchen-in: 1.0
+  '14':
+    fridge-kitchen-in: 1.0
+  '16':
+    fridge-kitchen-in: 1.0
+  '3':
+    fridge-kitchen-in: 1.0
+  '4':
+    fridge-kitchen-in: 1.0
+  '5':
+    fridge-kitchen-in: 1.0
+  '6':
+    fridge-kitchen-in: 1.0
+  '7':
+    fridge-kitchen-in: 1.0
+  '8':
+    fridge-kitchen-in: 1.0
+  '9':
+    fridge-kitchen-in: 1.0
+zucchini: {}
