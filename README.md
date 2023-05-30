@@ -97,7 +97,7 @@ Also note that it needs a configuration file similar to simulate_agents as it us
 ## Cite
 
 ```bibtex
-@inproceedings{kurenkov2023modeling,
+@article{kurenkov2023modeling,
   title={Modeling Dynamic Environments with Scene Graph Memory},
   author={Kurenkov, Andrey and Lingelbach, Michael and Agarwal, Tanmay and Li, Chengshu and Jin, Emily, and Fei-Fei, Li and Wu, Jiajun and Savarese, Silvio, and Mart{\'i}n-Mart{\'i}n, Roberto},
   booktitle={International Conference on Machine Learning},
